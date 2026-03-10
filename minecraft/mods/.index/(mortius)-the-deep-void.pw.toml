@@ -1,0 +1,16 @@
+filename = 'the_deep_void-1.96.9.1-forge-1.20.1.jar'
+name = 'The Deep Void'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7dd5dcc22ce598b47b114583bc3279af738cd75db840494c4135feaec78e09a3529c7e29c2c8351256da3827898ec10f593989c8d4e5f5f1e7af6291a9a8231e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gFlYdPkO/versions/PKIhE6Bi/the_deep_void-1.96.9.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'gFlYdPkO'
+version = 'PKIhE6Bi'
