@@ -1,0 +1,16 @@
+filename = 'hornsofwar-1.0.0.jar'
+name = 'Recruits- Horns of War Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f48ca513a76f4b9b2948f497317f099c6ddc774f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7415908
+project-id = 1420468

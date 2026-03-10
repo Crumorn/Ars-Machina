@@ -1,0 +1,16 @@
+filename = 'workersplus-1.20.1-forge-0.1.1-alpha.jar'
+name = 'Village Workers Plus'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'c60f0bc562ab40c02a412337952d33bc9286f9164ae7275755dad4e758d9667cd56e5fc5ef36cf9650cb914d3c83443c53f206f281697735e0e186e7dc088ee7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Bii0B8y2/versions/SPNhl2Qh/workersplus-1.20.1-forge-0.1.1-alpha.jar'
+
+[update.modrinth]
+mod-id = 'Bii0B8y2'
+version = 'SPNhl2Qh'

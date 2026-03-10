@@ -1,0 +1,16 @@
+filename = 'modlistscrollfix-1.0-1.20.1-FORGE.jar'
+name = 'Mod List Scroll Fix'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e701f1c0cb76e2138d9cac9c5d181ef100b191217fd64552a92d676a6f0c5b77e8fa4f19947d9dfc117f4f42b17bd1e4b03288981d2882147702a46c9f379713'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5NTPlvnj/versions/84B6syP6/modlistscrollfix-1.0-1.20.1-FORGE.jar'
+
+[update.modrinth]
+mod-id = '5NTPlvnj'
+version = '84B6syP6'

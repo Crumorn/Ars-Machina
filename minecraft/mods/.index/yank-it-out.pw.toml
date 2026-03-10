@@ -1,0 +1,16 @@
+filename = 'yio-1.0.0.jar'
+name = 'Yank It Out'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '88d25424d97d4c86aea652dc296406a74367fd176924c2062dd484f5b24c76d1e5d902ee9a88a6cee198d811e334d0c45f86ff3489618297860e582f017e9afd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dkODkt6y/versions/MJ2BdLHj/yio-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'dkODkt6y'
+version = 'MJ2BdLHj'
