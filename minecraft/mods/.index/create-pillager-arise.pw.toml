@@ -1,0 +1,16 @@
+filename = 'create_pillagers_arise-132.32 Release-forge-1.20.1.jar'
+name = 'Create: Pillager Arise'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '38d8ad09114abd743e2b05ce600263218ab484e62483a526273aeac5fab1806e40bf9ac6023dc28e0f30870a3f28cdee8912d14650a8856b630c2f8b75bad61c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VT2rW2wr/versions/JfSofIPn/create_pillagers_arise-132.32 Release-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'VT2rW2wr'
+version = 'JfSofIPn'

@@ -1,0 +1,16 @@
+filename = 'valkyrien_logistics-1.20.1-forge-1.1.2.jar'
+name = 'Create: Valkyrien Logistics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dfa03ab68682606872a7d8dee9acbf83e50e801e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7379097
+project-id = 1380349

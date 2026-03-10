@@ -1,0 +1,16 @@
+filename = 'garnished-2.1.7.b+1.20.1-neoforged.jar'
+name = 'Create: Garnished'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6387e04d928cb3cbbef5461e09d0ec40551ea5db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7557977
+project-id = 923277
