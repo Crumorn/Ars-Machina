@@ -1,0 +1,16 @@
+filename = 'Archeological-forge-1.20.1-1.2.2.jar'
+name = 'Archeological'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ffa64f679e947027eb7b5ce1422c7ba8ce84921839f35606b280a0d9e6cea2d1841747d48e7a41c0a79c9e4e861a0b81744c0b942b132e5937f3916248c64825'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z24qKJXQ/versions/aftiphXS/Archeological-forge-1.20.1-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'z24qKJXQ'
+version = 'aftiphXS'

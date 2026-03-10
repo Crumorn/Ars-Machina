@@ -1,0 +1,16 @@
+filename = 'turtlecore-2.0.1.jar'
+name = "Turtleboi's Core Library"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0ebc4f48a6d0f21fb5047d1b4c698d967c42d072'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7231604
+project-id = 1086765
