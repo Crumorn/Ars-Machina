@@ -1,0 +1,16 @@
+filename = 'corpsedragonsurvival-1.20.1-1.0.0.jar'
+name = 'Corpse x Dragon Survival'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eaaf1712c965b43ebbc62bc648efc45dce03f27d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7689786
+project-id = 1473885

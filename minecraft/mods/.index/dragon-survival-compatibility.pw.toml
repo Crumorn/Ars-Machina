@@ -1,0 +1,16 @@
+filename = 'dragonsurvival_compatibility-1.20.1-1.3.1-all.jar'
+name = 'Dragon Survival Compatibility'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0aa3c260fe44ad51bd163cd32f88752985b945aa1accc1faa3f83cdec99863dfd88c8381d5ac5539afbdddddb5621db216516c1b352198201936f7a7c0cfb8da'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AZO3n4Iz/versions/TyQNxn6x/dragonsurvival_compatibility-1.20.1-1.3.1-all.jar'
+
+[update.modrinth]
+mod-id = 'AZO3n4Iz'
+version = 'TyQNxn6x'
