@@ -1,0 +1,16 @@
+filename = 'spawn_dimension_choice-1.20.1-Forge-1.20.1-1.0.1.jar'
+name = 'Spawn Dimension Choice'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f49bd2648f94ce518e5ed605877b47851df031bd120e0169e0e910f8d2f829fd2d67f3a304560d6eb32f9fe6addb129b0dbca9ffe1cd3d06fdc892243f62835b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6YOnwyZO/versions/qjXgjdz9/spawn_dimension_choice-1.20.1-Forge-1.20.1-1.0.1.jar'
+
+[update.modrinth]
+mod-id = '6YOnwyZO'
+version = 'qjXgjdz9'

@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enemybanner:basic_silks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemybanner:damage_silks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemybanner:inhibit_silks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemybanner:loot_silks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemybanner:pull_silks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemybanner:push_silks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemybanner:range_silks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemybanner:resist_silks"
+		}
+	]
+}

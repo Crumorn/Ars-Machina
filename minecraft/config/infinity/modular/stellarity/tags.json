@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stellarity:amethyst_forest/diorite_and_calcite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:blazing_dunes/ground_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:carvers_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:frosted_hills/patches_replacable"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:liquids"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:midlands/obsidian_spike_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:non_solid"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:sculk_growth/patches_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:stalactites_replacable"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/crystal_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "stellarity:the_nest/surface_blocks"
+		}
+	]
+}

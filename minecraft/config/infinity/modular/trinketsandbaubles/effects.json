@@ -1,0 +1,103 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 9109504,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:bleeding"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16729344,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dragon"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 8282937,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dwarves"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 10025880,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:elves"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 16758465,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:faeles"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 16777215,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:fairy_dew"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16729088,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:fire_resistance"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 3497531,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:goblins"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 9232383,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:ice_resistance"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 15132410,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:lightning_resistance"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 8421504,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "trinketsandbaubles:titan"
+		}
+	]
+}

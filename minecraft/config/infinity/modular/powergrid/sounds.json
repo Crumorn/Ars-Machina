@@ -1,0 +1,128 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "powergrid:alarm_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:alarm_bell_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:breaker_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:breaker_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:component_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:contactor_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:contactor_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:electrozapper_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:fuse_install"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:fuse_pops"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:hv_switch_connect"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:hv_switch_disconnect"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:lv_switch_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:magnetizing"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:mv_switch_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:relay_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:transformer"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ubutton_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ubutton_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ui.action.fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ui.click"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ui.component_rotate"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ui.delete_area"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ui.place_component"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ui.place_trace"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ui.select_component"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:uswitch_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:uswitch_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:wire_burned"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:wire_cut"
+		}
+	]
+}

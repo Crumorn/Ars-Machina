@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:ancient_deepslate_dart_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:ancient_deepslate_saw_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:ancient_pot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:bone_crawler_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:deepslate_sarcophagus"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:deepslate_sarcophagus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:glutton_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:infested_bone_crawler_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:soul_forge"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:soul_orb_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:voidrium_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:voidrium_saw_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:watcher_on"
+		}
+	]
+}

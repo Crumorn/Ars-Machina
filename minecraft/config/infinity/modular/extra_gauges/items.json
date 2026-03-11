@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "extra_gauges:comparator_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "extra_gauges:counter_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "extra_gauges:display_collector"
+		},
+		{
+			"weight": 1.0,
+			"key": "extra_gauges:integer_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "extra_gauges:integer_selector"
+		},
+		{
+			"weight": 1.0,
+			"key": "extra_gauges:logic_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "extra_gauges:passive_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "extra_gauges:string_gauge"
+		}
+	]
+}

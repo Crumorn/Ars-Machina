@@ -1,0 +1,298 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:amethyst/tree"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:highlands/tree_1"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:highlands/tree_2"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/blue/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/blue/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/blue/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/bush"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/cyan/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/cyan/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/cyan/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/green/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/green/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/green/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/light_blue/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/light_blue/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/light_blue/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/lime/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/lime/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/lime/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/magenta/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/magenta/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/magenta/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/oak"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/orange/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/orange/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/orange/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/pink/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/pink/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/pink/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/purple/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/purple/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/purple/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/red/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/red/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/red/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/white/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/white/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/white/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/yellow/jungle"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/yellow/pine"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:the_hallow/trees/yellow/regular"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "stellarity:warped/big_oak"
+		}
+	]
+}

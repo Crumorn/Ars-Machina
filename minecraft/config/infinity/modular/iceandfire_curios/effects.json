@@ -1,0 +1,58 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -16776860,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "iceandfire_curios:dread"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -6549861,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "iceandfire_curios:electric_feet"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -131913,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "iceandfire_curios:enlightened"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -3571433,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "iceandfire_curios:flaming_feet"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -15015947,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "iceandfire_curios:frozen_feet"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -10235649,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "iceandfire_curios:war_song"
+		}
+	]
+}

@@ -1,0 +1,136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:adventurer_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:adventurer_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:ancient_scarab"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:angler_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:angler_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:booster_overlay_double"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:booster_overlay_single"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:booster_overlay_triple"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:certificate_of_taming"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:dice"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:discount_voucher"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:dream_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:gambling_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:golden_dice"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:golden_horseshoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:horseshoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:household_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:idol_of_fertility"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:lucky_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:metal_lure"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:miner_guide"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:miner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:nature_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:onyx"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:owl_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:removal_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:reverse_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:secret_ingredient"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:soul_of_minecraft"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:swimmer_guide"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:tamed_potato_beetle"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:tool_scraps"
+		},
+		{
+			"weight": 1.0,
+			"key": "majruszsaccessories:unbreakable_fishing_line"
+		}
+	]
+}

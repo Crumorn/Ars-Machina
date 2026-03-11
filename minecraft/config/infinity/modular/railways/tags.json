@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "railways:internal/glass/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "railways:locometal"
+		},
+		{
+			"weight": 1.0,
+			"key": "railways:locometal_boilers"
+		},
+		{
+			"weight": 1.0,
+			"key": "railways:painting_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "railways:semaphore_poles"
+		},
+		{
+			"weight": 1.0,
+			"key": "railways:track_casing_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "railways:track_casing_whitelist"
+		}
+	]
+}

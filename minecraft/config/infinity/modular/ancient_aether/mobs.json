@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "ancient_aether:aeronautic_leaper"
+		},
+		{
+			"data": {
+				"Category": "aether_surface_monster"
+			},
+			"weight": 1.0,
+			"key": "ancient_aether:festive_swet"
+		},
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "ancient_aether:fluffalo"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "ancient_aether:mutated_aechor_plant"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "ancient_aether:slammroot"
+		}
+	]
+}

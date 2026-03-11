@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "edible_stuff:blue_stuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "edible_stuff:white_stuff"
+		}
+	]
+}

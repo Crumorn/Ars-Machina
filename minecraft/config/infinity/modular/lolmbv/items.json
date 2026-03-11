@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lolmbv:acacia_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:bamboo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:birch_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:cherry_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:crimson_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:dark_oak_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:jungle_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:mangrove_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:spruce_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "lolmbv:warped_bookshelf"
+		}
+	]
+}

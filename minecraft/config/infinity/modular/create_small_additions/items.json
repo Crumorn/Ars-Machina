@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:blank_sand_mould"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:bronzeingotmould"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:coal_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:moltenbrass_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:moltencopper_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:moltengold_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:molteniron_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:moltennetherite_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:moltensilver_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:moltensteel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:moltenzinc_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "create_small_additions:sandingotmould"
+		}
+	]
+}

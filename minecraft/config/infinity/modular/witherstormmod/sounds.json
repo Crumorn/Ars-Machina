@@ -1,0 +1,316 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:amulet_bind"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:amulet_swaps"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:amulet_unbind"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:block_cluster_shake"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:bowels_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:bowels_loud_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:bowels_mood"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:bowels_transport"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:bowels_tremble"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:cave_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_activates"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_build"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_cracks"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_destruct"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_power_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_pulse_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:earth_rumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:flaming_skull_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:formidi_blade_charging"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:formidi_blade_decharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:formidibomb_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:formidibomb_explosion_quiet"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:formidibomb_pulse_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:loud_tremble"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:mob_cured"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:mob_infected"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:rib_bone_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:super_tnt_fuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:tentacle_spike_stab"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:tremble"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:whoosh"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_boss_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_bowels_exposed_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_close_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_distant_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_evolves"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_far_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_final_boss_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_formidibomb_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_reactivates"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_reviving_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_splits"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_thump"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_tractor_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_tractor_beam_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:wither_storm_tremble"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_beacon_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_beacon_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_beacon_deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_beacon_power_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_phlegm_block_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_phlegm_block_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_cast_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_heart_beat"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_intense_theme"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_launch_mob"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_normal_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_power_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_prepare_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_pull"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:withered_symbiont_theme"
+		}
+	]
+}

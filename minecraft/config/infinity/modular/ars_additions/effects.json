@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 2039587,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "ars_additions:marked"
+		}
+	]
+}

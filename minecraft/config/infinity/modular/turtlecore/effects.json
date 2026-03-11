@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 15421520,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "turtlecore:bleeding"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 59903,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "turtlecore:chilled"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 8752371,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "turtlecore:frozen"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 4928256,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "turtlecore:rooted"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 6422601,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "turtlecore:sapped"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 59903,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "turtlecore:sleep"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 13676558,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "turtlecore:stunned"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 15269961,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "turtlecore:vigor"
+		}
+	]
+}

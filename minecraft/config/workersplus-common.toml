@@ -1,0 +1,38 @@
+
+[general]
+	#General settings for all workers
+	#Whether workers announce what they're doing
+	workersAreChatty = true
+	#Time in seconds for workers to meet each other
+	#Range: 2 ~ 30
+	workerMeetingDuration = 5
+	#How close a worker must be to another to chat (in blocks)
+	#Range: 2 ~ 10
+	workerChatRadius = 5
+	#Radius in blocks that workers will scan for other workers
+	#Range: 16 ~ 512
+	workerDetectionRadius = 80
+	#Range in blocks that worker chat messages are visible to players
+	#Range: 10 ~ 100
+	workerChatBroadcastRange = 30
+	#Minimum food items before a worker needs more
+	#Range: 1 ~ 20
+	workerFoodThreshold = 3
+	#Amount of food items supplied to a worker when they need food
+	#Range: 1 ~ 64
+	workerFoodAmount = 16
+	#Distance in blocks that workers can interact with containers
+	#Range: 1.0 ~ 5.0
+	containerReachDistance = 2.5
+	#Distance in blocks to assess worker needs
+	#Range: 2 ~ 20
+	workerAssessmentDistance = 5
+
+[porter]
+	#Porter-specific settings
+	#Enable Porter workers (logistics/delivery)
+	enablePorters = true
+	#The amount of currency required to hire a porter.
+	#Range: 1 ~ 64
+	PorterCost = 20
+

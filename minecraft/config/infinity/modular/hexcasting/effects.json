@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 13137407,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "hexcasting:enlarge_grid"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 12641888,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "hexcasting:shrink_grid"
+		}
+	]
+}

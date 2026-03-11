@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "huge_fungus"
+			},
+			"weight": 1.0,
+			"key": "far_end:amethyst/tree/purple"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "far_end:amethyst/tree/umbrella"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "far_end:ash/tree/basalt"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "far_end:tundra/tree/bone_fancy"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "far_end:tundra/tree/bone_rib"
+		},
+		{
+			"data": {
+				"Type": "huge_fungus"
+			},
+			"weight": 1.0,
+			"key": "far_end:tundra/tree/crimson"
+		},
+		{
+			"data": {
+				"Type": "huge_fungus"
+			},
+			"weight": 1.0,
+			"key": "far_end:tundra/tree/crimson_2"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "far_end:wilds/tree/bush"
+		}
+	]
+}

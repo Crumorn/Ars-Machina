@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "quad:cats_on_blocks/sit"
+		},
+		{
+			"weight": 1.0,
+			"key": "quad:conduit_base_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "quad:nether_portal/built"
+		},
+		{
+			"weight": 1.0,
+			"key": "quad:nether_portal/formed"
+		},
+		{
+			"weight": 1.0,
+			"key": "quad:when_stepped_on/burns"
+		}
+	]
+}

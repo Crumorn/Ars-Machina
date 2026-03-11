@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 8192505,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "witherstormmod:wither_sickness"
+		}
+	]
+}

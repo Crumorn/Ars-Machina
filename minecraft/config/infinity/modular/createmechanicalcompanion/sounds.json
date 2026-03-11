@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "createmechanicalcompanion:bite_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "createmechanicalcompanion:equip_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "createmechanicalcompanion:mounted_crossbow_sound"
+		}
+	]
+}

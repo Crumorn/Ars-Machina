@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "netherexp:ectoplasm"
+			},
+			"weight": 1.0,
+			"key": "netherexp:ectoplasm"
+		}
+	]
+}

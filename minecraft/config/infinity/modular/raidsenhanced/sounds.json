@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:ball_lightning_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:engineer_lightning_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:engineer_lightning_orb_launch"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:engineer_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:engineer_start_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:illager_golem_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:lightning_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:raid_blimp_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:raid_blimp_falling"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:raid_drill_dig_out"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:raid_drill_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:raid_golem_heavy_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:raid_golem_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:raid_golem_prepare_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "raidsenhanced:raid_golem_swing"
+		}
+	]
+}

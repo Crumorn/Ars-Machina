@@ -1,0 +1,26 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "witherstormmod:bowels"
+			},
+			"weight": 1.0,
+			"key": "witherstormmod:bowels"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "witherstormmod:storm_spawn_platform"
+			},
+			"weight": 1.0,
+			"key": "witherstormmod:storm_spawn_platform"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "create_enchantment_industry:ink"
+			},
+			"weight": 1.0,
+			"key": "create_enchantment_industry:ink"
+		}
+	]
+}

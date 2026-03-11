@@ -1,0 +1,176 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:banshee_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:banshee_powder_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:blue_scale_fungus_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:cerebrage_rolls"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:cooked_hogham_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:cooked_wraithing_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:cooked_wraithing_flesh_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:ecto_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:ecto_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:glowcheese_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:glowcheese_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:glowcheese_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:hogham_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:hogham_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:honey_glazed_hogham"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:honey_glazed_hogham_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:lightspores_cheesecake"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:lightspores_cheesecake_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:lightspores_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:lightspores_popsicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:nether_dog_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:nether_hamburger"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:nightspores_cheesecake"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:nightspores_cheesecake_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:nightspores_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:nightspores_popsicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:ochre_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:ochre_sauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:pasta_with_cooked_hogham"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:pearlescent_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:pearlescent_sauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:red_scale_fungus_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:smelt_glowcheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:spores_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:verdant_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:verdant_sauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:wisp_custard"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:wisp_dumplings"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:wisp_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:wisp_pie_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:wraithing_flesh_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:wraithing_flesh_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "jadensnetherexpansiondelight:wrapped_wither_rose"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "powergrid:affected_by_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:carbon_pile_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:conductive_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:ignore_in_rotor_assembly_size"
+		}
+	]
+}

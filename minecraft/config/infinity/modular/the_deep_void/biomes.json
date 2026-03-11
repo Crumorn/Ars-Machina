@@ -1,0 +1,123 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:ashen_crags"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:befouled_marsh"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:crawler_nest"
+		},
+		{
+			"data": {
+				"Color": -13685206
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:deep_marrows"
+		},
+		{
+			"data": {
+				"Color": -16053236
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:drifting_monoliths"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:filled_graveyard"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:forgotten_valley"
+		},
+		{
+			"data": {
+				"Color": -16053236
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:gaol_of_heretics"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:gathering_grounds"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:gloomy_deathgrounds"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:grim_canopy"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:misted_remnants"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:mourning_graveyard"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:staring_hills"
+		},
+		{
+			"data": {
+				"Color": -16053236
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:the_gaol"
+		},
+		{
+			"data": {
+				"Color": -14211547
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:watching_undergrowth"
+		},
+		{
+			"data": {
+				"Color": -15790321
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:windswept_hollow"
+		}
+	]
+}

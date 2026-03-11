@@ -1,0 +1,46 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "chests/kennel/houndmaster"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "chests/kennel/scavenger"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "entities/dog"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "entities/houndmaster"
+		},
+		{
+			"data": {
+				"Type": "entity"
+			},
+			"weight": 1.0,
+			"key": "entities/scavenger"
+		},
+		{
+			"data": {
+				"Type": "gift"
+			},
+			"weight": 1.0,
+			"key": "gameplay/dog_digging"
+		}
+	]
+}

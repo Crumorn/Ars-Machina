@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "recruits:bowman_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:bowman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:crossbowman_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:crossbowman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:horseman_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:horseman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:nomad_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:nomad_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:recruit_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:recruit_shield_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:recruit_shieldman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:recruit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "recruits:villager_noble_spawn_egg"
+		}
+	]
+}

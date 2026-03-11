@@ -1,0 +1,288 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arsdelight:activated_bastion_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:activated_mendosteen_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:arch_sauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:arch_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:archwood_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bastion_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bastion_hornbeer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bastion_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bastion_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bastion_pie_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bastion_pork"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bastion_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:blazing_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bombegrante_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bombegrante_hornbeer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bombegrante_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bombegrante_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bombegrante_pie_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bombegrante_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bombegrante_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bowl_of_honey_glazed_chimera"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:bowl_of_wilden_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:cascading_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:chimera_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:chimera_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:chimera_meat_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:chimera_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:enchanters_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:flourishing_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:frostaya_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:frostaya_hornbeer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:frostaya_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:frostaya_mutton"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:frostaya_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:frostaya_pie_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:frostaya_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:grilled_chimera_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:grilled_chimera_meat_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:grilled_chimera_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:grilled_wilden_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:grilled_wilden_meat_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:grilled_wilden_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:honey_glazed_chimera"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:horn_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:mendosteen_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:mendosteen_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:mendosteen_hornbeer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:mendosteen_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:mendosteen_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:mendosteen_pie_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:mendosteen_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:neutralized_bombegrante_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:neutralized_frostaya_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:source_berry_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:source_berry_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:source_berry_cupcake"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:source_berry_hornbeer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:source_berry_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:source_berry_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:source_berry_pie_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:source_berry_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:unstable_cocktail"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:vexing_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:wilden_horn_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:wilden_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:wilden_meat_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:wilden_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:wilden_sauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:wilden_skewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:wilden_spike_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "arsdelight:wilden_stew"
+		}
+	]
+}

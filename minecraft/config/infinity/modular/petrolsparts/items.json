@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "petrolsparts:coaxial_gear"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolsparts:colossal_cogwheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolsparts:differential"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolsparts:double_cardan_shaft"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolsparts:hydraulic_transmission"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolsparts:large_coaxial_gear"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolsparts:planetary_gearset"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolsparts:pneumatic_tube"
+		}
+	]
+}

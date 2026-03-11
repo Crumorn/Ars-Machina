@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hex_ars_link:hex_callback"
+		},
+		{
+			"weight": 1.0,
+			"key": "hex_ars_link:linker_advanced"
+		},
+		{
+			"weight": 1.0,
+			"key": "hex_ars_link:linker_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "hex_ars_link:linker_great"
+		}
+	]
+}

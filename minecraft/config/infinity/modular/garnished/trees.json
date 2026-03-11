@@ -1,0 +1,81 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:almond_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:cashew_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:chestnut_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:hazelnut_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:macadamia_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:nut_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:peanut_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:pecan_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:pistachio_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "huge_fungus"
+			},
+			"weight": 1.0,
+			"key": "garnished:sepia_fungus_tree_configured"
+		},
+		{
+			"data": {
+				"Type": "tree"
+			},
+			"weight": 1.0,
+			"key": "garnished:walnut_tree_configured"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:beams"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:beams_that_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:bonfires"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:braziers"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:chandeliers"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:palisades"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:palisades_that_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:seats"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:seats_that_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:supports"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:supports_that_burn"
+		}
+	]
+}

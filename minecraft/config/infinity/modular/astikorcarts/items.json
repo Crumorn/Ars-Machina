@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "astikorcarts:animal_cart"
+		},
+		{
+			"weight": 1.0,
+			"key": "astikorcarts:plow"
+		},
+		{
+			"weight": 1.0,
+			"key": "astikorcarts:supply_cart"
+		},
+		{
+			"weight": 1.0,
+			"key": "astikorcarts:wheel"
+		}
+	]
+}

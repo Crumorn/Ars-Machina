@@ -1,0 +1,396 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "powergrid:acid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:alarm_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:barretter_tube"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:basin_heater"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:bjt_npn"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:bjt_pnp"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:capacitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:carbon_pile_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:circuit_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:circuit_design_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:circuit_schematic"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:conductive_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:constant_speed_motor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:contactor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:copper_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:copper_cord"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:cord_junction"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:creative_current_source"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:creative_resistor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:creative_voltage_source"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:crt"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:current_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:debug"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:device_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:diode"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:electric_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:electric_motor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:electrical_gizmo"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:electrobaton"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:electromagnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:electrozapper"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:empty_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:fuse_holder"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:generator_clutch"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:generator_commutator"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:generator_housing"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:generator_induction_rotor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:generator_vertical_commutator"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:golden_wire"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:grounding_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:growth_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:heating_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:heavy_wire_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:hv_breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:hv_switch"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:incomplete_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:incomplete_bjt_npn"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:incomplete_bjt_pnp"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:incomplete_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:incomplete_electrical_gizmo"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:incomplete_punch_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:incomplete_transformer_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:incomplete_unetched_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:insulated_copper_wire"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:integrated_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:iron_wire"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:light_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:light_fixture"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:lv_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:lv_light_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:lv_switch"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:magnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:multimeter"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:mv_switch"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:neon_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:plotter"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:portable_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:portable_battery_placeable"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:potato_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:potentiometer"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:power_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:power_resistor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:punch_card"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:punch_card_reader"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:redstone_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:regulator_tube"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:relay_dpdt"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:resistive_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:resistor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:rheostat"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:servo"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:socket"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:spark_gap"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:string_light_cord"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:thermometer"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:transformer_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:unetched_circuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:variac"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:varistor"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:vertical_generator_housing"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:vfet"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:voltage_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:wire"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:wire_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:wire_cutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "powergrid:zinc_sheet"
+		}
+	]
+}

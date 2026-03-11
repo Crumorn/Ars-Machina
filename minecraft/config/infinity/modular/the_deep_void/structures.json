@@ -1,0 +1,1247 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:agglomeration_of_eyes"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:agglomeration_of_eyes"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "local_modifications",
+				"id": "the_deep_void:ambrosia_stem"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:ambrosia_stem"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:ambushed_fortress"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:ambushed_fortress"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "the_deep_void:ancient_flesh_core"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:ancient_flesh_core"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:ashen_pillar"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:ashen_pillar"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:big_monolith"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:big_monolith"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:big_monolith_variant"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:big_monolith_variant"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:big_smoke_vent_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:big_smoke_vent_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:big_smoke_vent_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:big_smoke_vent_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:big_smoke_vent_3"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:big_smoke_vent_3"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:blue_giant_eye"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:blue_giant_eye"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:bone_arch"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:bone_arch"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:bone_hand_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:bone_hand_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:bone_hand_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:bone_hand_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:bone_spike_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:bone_spike_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:bone_spike_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:bone_spike_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:bone_spike_3"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:bone_spike_3"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:broken_jaw"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:broken_jaw"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:broken_portal"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:broken_portal"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:brown_giant_eye"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:brown_giant_eye"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "the_deep_void:cemetary"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cemetary"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:common_giant_skeleton"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:common_giant_skeleton"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:connected_small_infested_pillars"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:connected_small_infested_pillars"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:connected_small_infested_pillars_variant"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:connected_small_infested_pillars_variant"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:covered_ancient_ruins"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:covered_ancient_ruins"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:cross_hanging_cages"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cross_hanging_cages"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:cult_ruins_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cult_ruins_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:cult_ruins_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cult_ruins_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:cult_ruins_3"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cult_ruins_3"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:cult_ruins_4"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cult_ruins_4"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:cult_ruins_5"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cult_ruins_5"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:cult_ruins_6"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cult_ruins_6"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:cut_bone_pillar"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:cut_bone_pillar"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:dead_worm"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:dead_worm"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:desolate_fortification"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:desolate_fortification"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:eroded_marrow_pillar"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:eroded_marrow_pillar"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:eroded_pillar_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:eroded_pillar_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:eroded_pillar_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:eroded_pillar_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:flesh_arch"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:flesh_arch"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:flesh_eye_tree"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:flesh_eye_tree"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:flesh_rib_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:flesh_rib_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:flesh_rib_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:flesh_rib_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:flesh_ribs_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:flesh_ribs_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:flesh_ribs_eyes"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:flesh_ribs_eyes"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:flesh_tentacles"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:flesh_tentacles"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fleshy_giant_skull"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fleshy_giant_skull"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:forgotten_outpost"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:forgotten_outpost"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_1_rotten"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_1_rotten"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_2_rotten"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_2_rotten"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_3"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_3"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_3_rotten"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_3_rotten"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_4"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_4"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_4_rotten"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_4_rotten"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_5"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_5"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:fossil_5_rotten"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fossil_5_rotten"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:gaol_settlement"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:gaol_settlement"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:gaol_watchtower"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:gaol_watchtower"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_cross_hanging_cages"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_cross_hanging_cages"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_flesh_rib_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_flesh_rib_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_flesh_rib_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_flesh_rib_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_pustule"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_pustule"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_skeleton"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_skeleton"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_skull"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_skull"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_skull_broken"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_skull_broken"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_tombstone_1"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_tombstone_1"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_tombstone_2"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_tombstone_2"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_tombstone_3"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_tombstone_3"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:giant_tombstone_4"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:giant_tombstone_4"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:green_giant_eye"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:green_giant_eye"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:hivemind_chamber"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:hivemind_chamber"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:huge_rib_cage"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:huge_rib_cage"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:huge_spine"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:huge_spine"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:lighthouse"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:lighthouse"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:living_quarters"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:living_quarters"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:long_skull"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:long_skull"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:monolith_big_pillar"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:monolith_big_pillar"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "local_modifications",
+				"id": "the_deep_void:old_bone_spiral"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:old_bone_spiral"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:old_watchtower"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:old_watchtower"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "the_deep_void:ossuary"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:ossuary"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:overgrown_statue"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:overgrown_statue"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:overlooking_citadel"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:overlooking_citadel"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:overseeing_titan"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:overseeing_titan"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:penitentiary"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:penitentiary"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "the_deep_void:primordial_nest"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:primordial_nest"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:prison_of_heretics"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:prison_of_heretics"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:rotten_flesh_rib"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:rotten_flesh_rib"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:rotten_flesh_skull"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:rotten_flesh_skull"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "the_deep_void:rotten_tomb"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:rotten_tomb"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:rotten_wood_root"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:rotten_wood_root"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:rotting_corpse_wall"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:rotting_corpse_wall"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:shipping_camp"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:shipping_camp"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:small_infested_pillar"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:small_infested_pillar"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:small_infested_pillar_variant"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:small_infested_pillar_variant"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:somber_cathedral"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:somber_cathedral"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:spine"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:spine"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:stalker_statue"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:stalker_statue"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:temporary_gaol"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:temporary_gaol"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:tiny_cross_hanging_cages"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:tiny_cross_hanging_cages"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:tiny_monolith"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:tiny_monolith"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:tiny_monolith_variant"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:tiny_monolith_variant"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:trapped_void_chest"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:trapped_void_chest"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "the_deep_void:viscera_blue_eye"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:viscera_blue_eye"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "the_deep_void:viscera_green_eye"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:viscera_green_eye"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "the_deep_void:viscera_red_eye"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:viscera_red_eye"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "raw_generation",
+				"id": "the_deep_void:viscera_yellow_eye"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:viscera_yellow_eye"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:void_outpost"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:void_outpost"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:void_shrine"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:void_shrine"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:vulture_nest"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:vulture_nest"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:watcher_chamber"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:watcher_chamber"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:weaver_monument"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:weaver_monument"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "the_deep_void:workshop"
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:workshop"
+		}
+	]
+}

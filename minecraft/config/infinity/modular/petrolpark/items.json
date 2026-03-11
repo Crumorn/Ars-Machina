@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/bestie"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/beta_tester"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/competition_winner"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/content_creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/developer"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/early_bird"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/nitro"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/suggestion"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:badge/translator"
+		},
+		{
+			"weight": 1.0,
+			"key": "petrolpark:menu"
+		}
+	]
+}

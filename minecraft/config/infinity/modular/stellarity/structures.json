@@ -1,0 +1,143 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellarity:campsite"
+			},
+			"weight": 1.0,
+			"key": "stellarity:campsite"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellarity:chapel_of_light"
+			},
+			"weight": 1.0,
+			"key": "stellarity:chapel_of_light"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "underground_decoration",
+				"id": "stellarity:fossil"
+			},
+			"weight": 1.0,
+			"key": "stellarity:fossil"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellarity:obsidian_spike"
+			},
+			"weight": 1.0,
+			"key": "stellarity:obsidian_spike"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellarity:old_stronghold"
+			},
+			"weight": 1.0,
+			"key": "stellarity:old_stronghold"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellarity:return_gateways/base_flying"
+			},
+			"weight": 1.0,
+			"key": "stellarity:return_gateways/base_flying"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellarity:return_gateways/bloody_flying"
+			},
+			"weight": 1.0,
+			"key": "stellarity:return_gateways/bloody_flying"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "stellarity:return_gateways/snowy_flying"
+			},
+			"weight": 1.0,
+			"key": "stellarity:return_gateways/snowy_flying"
+		},
+		{
+			"data": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "stellarity:village"
+			},
+			"weight": 1.0,
+			"key": "stellarity:village"
+		}
+	]
+}

@@ -1,0 +1,624 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:alder_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:anointing_paste"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:armour_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:arthana"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:attuned_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:attuned_stone_charged"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:belladonna_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:belladonna_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:blood_poppy"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:blooded_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:bone_needle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:bound_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:breath_of_the_goddess"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:brew_of_love"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:brew_of_sprouting"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:brew_of_the_depths"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:brew_of_the_grotesque"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:broom"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:candelabra"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:chalice"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:chalice_filled"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:circle_talisman"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:clay_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:condensed_fear"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:creeper_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:demon_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:demonic_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:diamond_vapour"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:distillery"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:drop_of_luck"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:earmuffs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:earth_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:ember_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:enchanted_broomstick"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:ender_dew"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:ent_twig"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:exhale_of_the_horned_one"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:fire_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:flying_ointment"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:focused_will"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:foul_fume"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:fume_filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:fume_funnel"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:fume_funnel_filtered"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:garlic"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:ghost_of_the_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:glint_weed"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:golden_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:gypsum"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:happenstance_oil"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hawthorn_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hint_of_rebirth"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:hunger_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:icy_needle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infernal_animus"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infinity_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_armour_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_earth_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_fire_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_hunger_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_magic_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_tool_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_void_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_voodoo_protection_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:infused_water_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:kettle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:magic_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:mandrake_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:mandrake_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:mellifluous_hunger"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:mutandis"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:mutandis_extremis"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:mystic_unguent"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:nether_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:odour_of_purity"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:oil_of_vitriol"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:otherwhere_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:purified_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:quicklime"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:redstone_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:reek_of_misfortune"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:refined_evil"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:ritual_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:rowan_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:snowbell_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:soft_clay_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:soul_of_the_world"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:spanish_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:spinning_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:spirit_of_otherwhere"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:stripped_alder_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:stripped_hawthorn_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:stripped_rowan_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_armour_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_earth_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_fire_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_hunger_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_magic_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_tool_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_void_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_voodoo_protection_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:sturdy_water_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:taglock"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:taglock_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:tear_of_the_goddess"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:tongue_of_dog"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:tool_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:void_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:voodoo_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:voodoo_protection_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:water_artichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:water_artichoke_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:water_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:whiff_of_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:wicker_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:witch_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:witch_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:wolfsbane_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:wolfsbane_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:wood_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "enchanted:wool_of_bat"
+		}
+	]
+}

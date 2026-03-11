@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "far_end:all_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:all_end_stone_type"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:amethyst_forest/island_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:amethyst_forest/surface"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:ash_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:ashfall_delta/island_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:ashfall_delta/water_surface"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:end_geode_invalid"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:end_wilds/surface"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:flesh_surface"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:flesh_tundra/surface_inner"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:general/invalid_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:nest_geode_invalid"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:single/calcite"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:single/end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:single/moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "far_end:warped_lake_invalid"
+		}
+	]
+}

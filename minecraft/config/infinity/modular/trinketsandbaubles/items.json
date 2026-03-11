@@ -1,0 +1,160 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:arcing_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:damage_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dragon_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dragons_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dragons_eye_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dragons_eye_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dragons_eye_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dragons_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dwarf_stout"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:dwarves_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:elf_sap"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:elves_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:ender_tiara"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:faelis_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:faelis_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:faelis_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:fairies_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:fairy_dew"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:glow_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:glowing_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:glowing_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:glowing_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:goblin_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:goblins_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:greater_inertia_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:inertia_null_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:mana_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:mana_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:mana_reagent"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:moon_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:poison_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:polarized_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:restoration_serum"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:sea_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:teddy_bear"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:titan_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:titan_spirit"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:weightless_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "trinketsandbaubles:wither_ring"
+		}
+	]
+}

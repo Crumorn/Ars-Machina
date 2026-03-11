@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bio_delight:bio_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:blood_bagel"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:bone_bagel"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:bone_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:bone_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:bone_flour"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:bottled_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:bottled_bone_marrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:cooked_flesh_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:exotic_flesh_patty"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:feast_of_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:flesh_paste"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:fried_bits"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:goreburger"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:pate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:primal_flesh_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:primal_rib"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:protein_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:protein_shake"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:raw_flesh_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bio_delight:toxic_soda"
+		}
+	]
+}

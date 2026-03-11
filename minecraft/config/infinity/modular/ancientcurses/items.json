@@ -1,0 +1,152 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:ancient_alexandrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:ancient_bismuth"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:ancient_chrysoberyl"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:broken_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:broken_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:broken_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:broken_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:broken_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:broken_topaz"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:cursed_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:cursed_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:cursed_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:deprecophobia_music_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:dowsing_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:first_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:golden_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:golden_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:lapidarist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:perfect_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:perfect_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:perfect_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:perfect_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:perfect_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:perfect_topaz"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:polished_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:polished_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:polished_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:polished_ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:polished_sapphire"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:polished_topaz"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:rot_clump"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:sconced_cursed_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:sconced_redstone_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:sconced_soul_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:sconced_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:sconced_unlit_soul_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:sconced_unlit_torch"
+		}
+	]
+}

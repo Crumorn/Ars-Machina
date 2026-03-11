@@ -1,0 +1,152 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:burnt_demon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:desertjelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:dragonemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:fireketchup"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:firewyvernkebab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:firewyvernnuggets"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:firewyvernsandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:friedeggofasandworm"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:friedtonguekebab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:frozendemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:frozenwyvernsandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:hydrakebab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:hydrameat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:hydrasandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:icewyvernkebab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:icewyvernnuggets"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:jellysandwichofjunglemyrmex"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:junglejelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:ladragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:mustard"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:onionsauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:pieceoffirewyvernmeat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:pieceofhydrameat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:pieceoficewyvernmeat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:pieceofthunderwyvernmeat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:pixiesauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:poisonedbyademon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:q"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:sandwichwithdesertedmyrmexjelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:scrambledeggsfrommyrmix"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:skewermadeofogresfang"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:thunder_wyvern_nuggets"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:thunder_wyvernsandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:thunderdemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:thunderwyvernkebab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:tonguekebab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ice_and_fire_delight:wormflesh"
+		}
+	]
+}
