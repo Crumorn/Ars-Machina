@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "astikorcarts:entity.cart.attach"
+		},
+		{
+			"weight": 1.0,
+			"key": "astikorcarts:entity.cart.detach"
+		},
+		{
+			"weight": 1.0,
+			"key": "astikorcarts:entity.cart.place"
+		}
+	]
+}

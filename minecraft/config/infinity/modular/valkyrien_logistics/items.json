@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "valkyrien_logistics:angular_velocity_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrien_logistics:euler_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrien_logistics:linear_velocity_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrien_logistics:mass_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrien_logistics:position_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrien_logistics:rotation_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrien_logistics:slug_gauge"
+		}
+	]
+}

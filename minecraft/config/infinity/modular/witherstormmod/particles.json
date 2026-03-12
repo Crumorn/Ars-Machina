@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:command_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "witherstormmod:phlegm"
+		}
+	]
+}

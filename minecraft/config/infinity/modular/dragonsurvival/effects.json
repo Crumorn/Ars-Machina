@@ -1,0 +1,184 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:animal_peace"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:burn"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:charged"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:drain"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:fire"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:lava_vision"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:magic"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:peace"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:revealing_the_soul"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:royal_chase"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -3407617,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:royal_departure"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:source_of_magic"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 16032488,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:stress"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:strong_leather"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 14540253,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:trapped"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:water_vision"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:wings_cave"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:wings_forest"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 0,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "dragonsurvival:wings_sea"
+		}
+	]
+}

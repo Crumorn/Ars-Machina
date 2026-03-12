@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 3348480,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "farmersrespite:caffeinated"
+		}
+	]
+}

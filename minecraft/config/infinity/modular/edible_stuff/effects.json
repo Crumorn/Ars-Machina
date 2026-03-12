@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -16711936,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "edible_stuff:high"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -1,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "edible_stuff:overdose"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -65536,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "edible_stuff:withdrawal"
+		}
+	]
+}

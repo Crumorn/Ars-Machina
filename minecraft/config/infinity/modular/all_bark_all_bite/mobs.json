@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "creature"
+			},
+			"weight": 1.0,
+			"key": "all_bark_all_bite:dog"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "all_bark_all_bite:houndmaster"
+		},
+		{
+			"data": {
+				"Category": "monster"
+			},
+			"weight": 1.0,
+			"key": "all_bark_all_bite:scavenger"
+		}
+	]
+}

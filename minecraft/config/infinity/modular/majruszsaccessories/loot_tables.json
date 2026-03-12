@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "gift"
+			},
+			"weight": 1.0,
+			"key": "gameplay/lucky_rock_default"
+		},
+		{
+			"data": {
+				"Type": "gift"
+			},
+			"weight": 1.0,
+			"key": "gameplay/lucky_rock_end"
+		},
+		{
+			"data": {
+				"Type": "gift"
+			},
+			"weight": 1.0,
+			"key": "gameplay/lucky_rock_nether"
+		},
+		{
+			"data": {
+				"Type": "gift"
+			},
+			"weight": 1.0,
+			"key": "gameplay/nether_accessories"
+		}
+	]
+}

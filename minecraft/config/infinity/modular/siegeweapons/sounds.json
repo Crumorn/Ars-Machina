@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_draw_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_draw_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_draw_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_draw_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_draw_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_draw_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_loaded"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_10"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_11"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_draw_9"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_loaded"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:siegeweapon_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:trebuchet_shot"
+		}
+	]
+}

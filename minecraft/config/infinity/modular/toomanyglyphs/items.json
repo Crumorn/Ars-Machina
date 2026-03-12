@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_amplify_three"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_amplify_two"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_chaining"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_animal"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_entity"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_is_baby"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_is_mature"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_living"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_living_not_monster"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_living_not_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_monster"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_filter_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_lay_on_hands"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "toomanyglyphs:glyph_reverse_direction"
+		}
+	]
+}

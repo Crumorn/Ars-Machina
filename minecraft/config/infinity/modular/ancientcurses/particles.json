@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:cursed_flame_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:cursed_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ancientcurses:golden_feather_particle"
+		}
+	]
+}

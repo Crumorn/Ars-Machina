@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "immersive_paintings:glow_graffiti"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_paintings:glow_painting"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_paintings:graffiti"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_paintings:painting"
+		}
+	]
+}

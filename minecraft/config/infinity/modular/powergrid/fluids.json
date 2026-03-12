@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "powergrid:acid"
+			},
+			"weight": 1.0,
+			"key": "powergrid:acid"
+		}
+	]
+}

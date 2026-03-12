@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gamblers_trinket:alchemists_pandemonium"
+		},
+		{
+			"weight": 1.0,
+			"key": "gamblers_trinket:gamblers_trinket_base"
+		}
+	]
+}

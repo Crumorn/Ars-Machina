@@ -1,0 +1,188 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:balloon_leaking_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:balloon_leaking_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:balloon_rupture"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:boing"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:clock_song"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:doink"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:flightsuit_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:flightsuit_unequip"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gas_hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gas_nozzle_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gas_nozzle_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gear_whirr"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:goggles_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:goggles_unequip"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gravitron_fling"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gravitron_freeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gravitron_grab"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gravitron_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gravitron_shutdown"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:gravitron_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:hose_attach"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:hose_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:joint_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:junk_propeller"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:junk_rattle"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:physics_infuser_finish"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:physics_infuser_initialize"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:physics_infuser_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:physics_infuser_windup"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:propeller"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:propeller_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:propeller_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:supersonic"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:thick_fluid_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:thick_fluid_fill"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:thick_fluid_swim"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:thruster"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:thwoom"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:tick"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:tock"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:wand_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:wand_finish"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:wand_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:wand_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:wanderlust"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:welder_whirr"
+		}
+	]
+}

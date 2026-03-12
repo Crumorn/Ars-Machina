@@ -1,0 +1,444 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:acacia_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:acacia_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:beacon_fire_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:beacon_fire_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:beacon_magic_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:beacon_magic_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:beacon_peace_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:beacon_peace_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:birch_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:birch_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:broken_knight_helmet_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:broken_knight_helmet_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:broken_knight_helmet_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_dragon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_dragon_treat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:cave_source_of_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charged_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charged_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charred_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charred_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charred_seafood"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:charred_vegetable"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:crimson_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:crimson_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_oak_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dark_oak_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:diamond_chorus"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:double_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_mossy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_purpur_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altar_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_beacon_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_beacon_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_beacon_peace"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_hunting_mesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_memory_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:elder_dragon_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:elder_dragon_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:elder_dragon_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:empty_dragon_beacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:explosive_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_dragon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_dragon_treat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:forest_source_of_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:frozen_raw_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:golden_coral_pufferfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:golden_turtle_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:heart_element"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hot_dragon_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:human_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_hound_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:iron_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:iron_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:jungle_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:jungle_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:legacy_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:luminous_ointment"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:meat_chorus_mix"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:meat_wild_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:murderer_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:murderer_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:oak_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:oak_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:prince_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:prince_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:princess_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:princess_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:quartz_explosive_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_dragon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_dragon_treat"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sea_source_of_magic"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:seasoned_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:shooter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sleeper_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sleeper_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:smelly_meat_porridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:spin_grant"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:spruce_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:spruce_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:squire_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:star_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:star_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:stone_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:stone_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:sweet_sour_rabbit"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_debris"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:treasure_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:warped_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:warped_small_dragon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:weak_dragon_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:wing_grant"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:ballista_projectile_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:catapult_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:cobble_cluster_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:explosion_pot_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:fire_pot_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "siegeweapons:siege_table_block"
+		}
+	]
+}

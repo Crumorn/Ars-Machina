@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "archeological:$_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:$_wind_stone_petroglyph"
+		}
+	]
+}

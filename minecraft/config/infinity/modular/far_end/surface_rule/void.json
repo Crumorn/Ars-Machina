@@ -1,0 +1,22 @@
+{
+	"biomes": [
+		"far_end:void"
+	],
+	"rule": {
+		"sequence": [
+			{
+				"result_state": {
+					"Name": "minecraft:blackstone"
+				},
+				"type": "minecraft:block"
+			},
+			{
+				"result_state": {
+					"Name": "minecraft:blackstone"
+				},
+				"type": "minecraft:block"
+			}
+		],
+		"type": "minecraft:sequence"
+	}
+}

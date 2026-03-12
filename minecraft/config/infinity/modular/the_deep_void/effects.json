@@ -1,0 +1,364 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -14935012,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:abyssal_mark"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -14792947,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:ambrosia_withdrawal"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -458752,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:blood_boil"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -9870544,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:blossom"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -13093847,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:broken_armor"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -1,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:call_of_the_void"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -4690689,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:combo"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -13697024,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:crate_magnet"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -394293,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:creature_repellent"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -15527149,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:dead_inside"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -11122637,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:debilitated"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -14804711,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:decomposition"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -11852011,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:distracted"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -13524993,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:doom"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -16448251,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:fixation"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -9728,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:golden_blood"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -13553359,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:hallucinate"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -14474461,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:heavy"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -14567726,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:hexed"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -9728,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:ichor_burn"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -65022,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:laceration"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:looking"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -13685208,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:lurker_head_near"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -13099233,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:madness"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -12566982,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:motherly_call"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -10747133,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:pain_killer"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -9761523,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:painful"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -12763843,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:paranoia"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -933251,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:parasitized"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -11358952,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:plague"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -5148928,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:powerful_shot"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -13290701,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:root_blind"
+		},
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -11188679,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:rot"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -14145496,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:rotten_heart"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:stare"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:tremble"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -15132391,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:vanish"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": -7566196,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:void_blessing"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -1534733,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:voidrium_mark"
+		},
+		{
+			"data": {
+				"Category": "neutral",
+				"Color": -12124160,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "the_deep_void:weaver_curse"
+		}
+	]
+}

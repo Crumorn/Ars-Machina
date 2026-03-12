@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:brainswept_circle_components"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:cheap_to_break_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:directrices"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:impeti"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:quenched_allay_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:water_plants"
+		}
+	]
+}

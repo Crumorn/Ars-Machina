@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:meteor_rocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "vs_clockwork:sensor_lens"
+		}
+	]
+}

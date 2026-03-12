@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_altars"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:dragon_treasures"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:hunter_ability_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:wooden_dragon_doors"
+		},
+		{
+			"weight": 1.0,
+			"key": "dragonsurvival:wooden_dragon_doors_small"
+		}
+	]
+}

@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "garnished:amber_remnant_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:coloured_mastic_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:fan_processing_catalysts/freezing"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:generation_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:mastic_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:nut_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:sepia_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/abyssal_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/carnotite"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/dragon_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/ritualistic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/unstable_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/basic"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stone_types/zultanite/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stripped_nut_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "garnished:stripped_sepia_stems"
+		}
+	]
+}

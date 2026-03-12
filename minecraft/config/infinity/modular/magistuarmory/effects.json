@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": -10092544,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "magistuarmory:laceration"
+		}
+	]
+}

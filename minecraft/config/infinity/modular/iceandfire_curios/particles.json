@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "iceandfire_curios:dread_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "iceandfire_curios:warbanner_particle"
+		}
+	]
+}

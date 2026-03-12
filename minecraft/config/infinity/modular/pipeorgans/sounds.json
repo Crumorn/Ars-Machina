@@ -1,0 +1,332 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:diapason_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:diapason_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:diapason_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:diapason_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:diapason_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:english_horn_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:english_horn_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:english_horn_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:english_horn_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:english_horn_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gamba_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gamba_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gamba_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gamba_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gamba_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gedeckt_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gedeckt_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gedeckt_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gedeckt_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gedeckt_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:haunted_chiff"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:haunted_whistle_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:haunted_whistle_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:haunted_whistle_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:haunted_whistle_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:haunted_whistle_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:hohlflute_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:hohlflute_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:hohlflute_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:hohlflute_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:hohlflute_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:nasard_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:nasard_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:nasard_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:nasard_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:nasard_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:piccolo_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:piccolo_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:piccolo_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:piccolo_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:piccolo_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:posaune_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:posaune_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:posaune_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:posaune_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:posaune_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:prestant_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:prestant_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:prestant_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:prestant_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:prestant_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:rohrflote_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:rohrflote_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:rohrflote_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:rohrflote_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:rohrflote_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:subbass_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:subbass_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:subbass_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:subbass_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:subbass_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:tracker_bar_change_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:trompette_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:trompette_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:trompette_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:trompette_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:trompette_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:viola_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:viola_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:viola_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:viola_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:viola_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_celeste_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_celeste_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_celeste_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_celeste_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_celeste_superhigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_humana_deep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_humana_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_humana_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_humana_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_humana_superhigh"
+		}
+	]
+}

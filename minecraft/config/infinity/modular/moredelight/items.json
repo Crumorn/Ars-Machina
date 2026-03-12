@@ -1,0 +1,148 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moredelight:bread_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:carrot_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:chicken_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:chicken_sandwich_with_egg_and_tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:chocolate_popsicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:cooked_rice_with_beef"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:cooked_rice_with_chicken_cuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:cooked_rice_with_porkchop"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:creamy_pasta_with_chicken_cuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:creamy_pasta_with_ham"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:diced_potatoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:diced_potatoes_with_beef"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:diced_potatoes_with_chicken_cuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:diced_potatoes_with_egg_and_tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:diced_potatoes_with_porkchop"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:egg_with_bacon_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:hamburger_with_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:hamburger_with_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:loaded_hamburger"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:mashed_potatoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:omelette"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:porkchop_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:potato_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:simple_hamburger"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:steak_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:stone_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:toast"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:toast_with_blueberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:toast_with_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:toast_with_chocolate"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:toast_with_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:toast_with_glow_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:toast_with_honey"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:toast_with_sweet_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:tomato_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "moredelight:wooden_knife"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Category": "harmful",
+				"Color": 16435708,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "tomeofblood:marked"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16435708,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "tomeofblood:serene"
+		},
+		{
+			"data": {
+				"Category": "beneficial",
+				"Color": 16435708,
+				"Instant": false
+			},
+			"weight": 1.0,
+			"key": "tomeofblood:vulnerable"
+		}
+	]
+}

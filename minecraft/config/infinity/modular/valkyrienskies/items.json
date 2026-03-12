@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:area_assembler"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:connection_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:physics_entity_creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:ship_assembler"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:ship_creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:ship_creator_smaller"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:ship_remover"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:test_antigrav"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:test_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:test_flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:test_hinge"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:test_thruster"
+		},
+		{
+			"weight": 1.0,
+			"key": "valkyrienskies:test_wing"
+		}
+	]
+}

@@ -1,0 +1,1192 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "archeological:aged_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:aged_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:aged_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:aged_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:aged_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:amethyst_amulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:ancient_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:ancient_vault"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:aquatic_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:archeology_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:archer_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:arrow_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:black_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:blue_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brown_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brute_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:brute_statue_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:calm_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:calm_statue_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:ceramic_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:circles_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:content_dark_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:content_dark_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:creeper_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:creeper_idol_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:curious_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:curious_statue_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:cyan_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:dark_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:deepslate_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:diamond_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:diver_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:earth_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:emerald_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:enderman_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:enderman_idol_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:eye_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:eye_stone_petroglyh"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:fear_dark_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:fear_dark_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:fearless_dark_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:fearless_dark_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:fighter_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:fire_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:golden_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:gray_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:green_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:grumpy_dark_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:grumpy_dark_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:healer_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:healthy_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:healthy_statue_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:heated_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:home_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:jumper_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_blue_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:light_gray_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lime_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:lost_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:magenta_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:miner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:nether_ceramic_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:old_bandages"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:orange_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:oxidized_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pink_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:portal_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:portal_stone_petroglyh"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:pottery_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:protection_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:purple_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:red_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rock_scraps"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rotten_manuscript"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runestone_diver"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runestone_fighter"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runestone_healer"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runestone_heated"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runestone_jumper"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runestone_miner"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runestone_protection"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runestone_runner"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:runner_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rusty_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rusty_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rusty_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rusty_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rusty_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rusty_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:rusty_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:skeleton_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:skeleton_idol_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:skull_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:spider_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:spider_idol_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:stone_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:surprise_dark_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:surprise_dark_urn"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:sword_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:torn_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:tough_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:tough_statue_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:villager_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:villager_idol_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:weathered_trident"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:white_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:wind_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:worn_fossils"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_aquatic_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_archer_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_arrow_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_circles_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_earth_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_eye_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_fire_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_home_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_portal_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_skull_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_sword_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:yellow_wind_stone_petroglyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:zombie_idol"
+		},
+		{
+			"weight": 1.0,
+			"key": "archeological:zombie_idol_template"
+		}
+	]
+}

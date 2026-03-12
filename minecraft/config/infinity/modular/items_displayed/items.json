@@ -1,0 +1,484 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "items_displayed:allurite_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:amethyst_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:angler_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:archer_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:arms_up_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:ash_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:azure_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:black_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:blade_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:blue_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:bolt_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:brass_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:brewer_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:brown_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:burn_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:charcoal"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:coast_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:copper_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:crown_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:cyan_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:danger_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:dinosaur_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:disc_fragment_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:disc_fragment_fusion"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:disc_fragment_tasty"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:dune_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:echo_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:explorer_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:eye_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:flow_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:flow_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:footprint_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:friend_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:gold_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:gothic_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:gray_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:green_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:guardian_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:guster_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:heart_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:heartbreak_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:hero_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:host_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:howl_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:iron_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:item_display"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:kobold_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:lapis_lazuli"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:light_blue_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:light_gray_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:lime_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:lumiere_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:magenta_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:miner_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:mourner_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_11"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_13"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_cat"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_chirp"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_coconut"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_creator_music_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_drift"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_far"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_fusion"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_kobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_mall"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_mellohi"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_otherside"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_pigstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_precipice"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_relic"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_rot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_stal"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_strad"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_tasty"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_wait"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:music_disc_ward"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:necro_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:netherite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:netherite_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:orange_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:pink_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:plenty_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:polarity_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:preserved_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:prize_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:purple_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:raiser_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:red_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:rib_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:scarlet_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:scrape_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:sentry_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:shaper_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:sheaf_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:shelter_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:silence_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:silver_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:skull_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:snort_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:snout_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:spade_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:spire_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:tide_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:vex_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:ward_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:wayfinder_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:white_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:wild_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:yellow_jewelry_pillow"
+		},
+		{
+			"weight": 1.0,
+			"key": "items_displayed:zinc_ingot"
+		}
+	]
+}

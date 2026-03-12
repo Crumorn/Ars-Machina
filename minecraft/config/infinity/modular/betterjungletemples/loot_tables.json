@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"data": {
+				"Type": "archaeology"
+			},
+			"weight": 1.0,
+			"key": "archaeology/emerald"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "chests/campsite"
+		},
+		{
+			"data": {
+				"Type": "chest"
+			},
+			"weight": 1.0,
+			"key": "chests/treasure"
+		}
+	]
+}

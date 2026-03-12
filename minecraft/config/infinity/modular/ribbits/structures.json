@@ -1,0 +1,15 @@
+{
+	"elements": [
+		{
+			"data": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "ribbits:ribbit_village"
+			},
+			"weight": 1.0,
+			"key": "ribbits:ribbit_village"
+		}
+	]
+}

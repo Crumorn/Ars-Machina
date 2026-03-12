@@ -1,0 +1,74 @@
+{
+	"elements": [
+		{
+			"data": {
+				"fluidName": "createbb:acetic_anhydride"
+			},
+			"weight": 1.0,
+			"key": "createbb:acetic_anhydride"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:ammonia"
+			},
+			"weight": 1.0,
+			"key": "createbb:ammonia"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:hydrogen"
+			},
+			"weight": 1.0,
+			"key": "createbb:hydrogen"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:liquid_blue_stuff"
+			},
+			"weight": 1.0,
+			"key": "createbb:liquid_blue_stuff"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:liquid_white_stuff"
+			},
+			"weight": 1.0,
+			"key": "createbb:liquid_white_stuff"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:methanol"
+			},
+			"weight": 1.0,
+			"key": "createbb:methanol"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:methylamine"
+			},
+			"weight": 1.0,
+			"key": "createbb:methylamine"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:oxygen"
+			},
+			"weight": 1.0,
+			"key": "createbb:oxygen"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:phenylacetic_acid"
+			},
+			"weight": 1.0,
+			"key": "createbb:phenylacetic_acid"
+		},
+		{
+			"data": {
+				"fluidName": "createbb:phenylacetone"
+			},
+			"weight": 1.0,
+			"key": "createbb:phenylacetone"
+		}
+	]
+}

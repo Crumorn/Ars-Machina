@@ -1,0 +1,136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:base"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:brass_boot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:brass_reed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:copper_boot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:dark_oak_boot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:diapason"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:english_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gamba"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:gedeckt"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:haunted_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:hohlflute"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:incomplete_english_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:incomplete_posaune"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:incomplete_trompette"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:incomplete_vox_humana"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:iron_boot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:keyboard_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:music_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:nasard"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:piccolo"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:posaune"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:prestant"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:rohrflote"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:roll_puncher"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:subbass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:tracker_bar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:trompette"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:tuning_wire"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:viola"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_celeste"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:vox_humana"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:windchest"
+		},
+		{
+			"weight": 1.0,
+			"key": "pipeorgans:windchest_master"
+		}
+	]
+}

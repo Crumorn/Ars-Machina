@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:ambrosia_droplet"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:black_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:black_tentacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:broken_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:dark_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:dark_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:deepslate_pebble"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:eldritch_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:flame_of_spite"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:gold_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:grim_hook_line"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:grim_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:hook_line"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:ichor_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:licker_tongue"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:lunatic_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:mob_respawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:pentagram"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:pus_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:red_great_slash"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:shade_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:soul_fused_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:soul_hook_line"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:soul_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:void_matter_crit"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_deep_void:void_matter_residue"
+		}
+	]
+}
