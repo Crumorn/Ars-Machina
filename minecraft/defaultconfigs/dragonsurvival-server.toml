@@ -602,9 +602,9 @@
 	#Decide which entities can drop elder dragon hearts
 	elderDragonHeartEntityList = ["minecraft:ender_dragon"]
 	#Decide which entities can drop weak dragon hearts
-	weakDragonHeartEntityList = []
+	weakDragonHeartEntityList = ["minecraft:villager", "dragonsurvival:hunter_hound", "dragonsurvival:knight", "dragonsurvival:shooter", "dragonsurvival:squire", "dragonsurvival:prince", "dragonsurvival:princess", "dragonsurvival:princess_entity", "guardvillagers:guard"]
 	#Decide which entities can drop dragon hearts
-	dragonHeartEntityList = []
+	dragonHeartEntityList = ["minecraft:evoker"]
 	#The chance for dragon heart to drop from any mobs with max health above 50
 	#Range: 0.0 ~ 1.0
 	elderDragonHeartChance = 1.0
@@ -613,7 +613,7 @@
 	weakDragonHeartChance = 0.01
 	#The chance for dragon heart shards to drop from any mobs with max health between 14-20
 	#Range: 0.0 ~ 1.0
-	dragonHeartShardChance = 0.01
+	dragonHeartShardChance = 0.2
 
 	[drops.ore]
 		#The tag that contains all ores that can drop dust/bones when harvested. Will not drop if the ore drops another of the items in this tag. Format: modid:id
