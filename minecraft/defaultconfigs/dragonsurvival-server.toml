@@ -1072,9 +1072,9 @@
 	#List of items to grow adult dragon. Format: item/modid:id
 	growAdult = ["dragonsurvival:elder_dragon_heart"]
 	#List of items to grow young dragon. Format: item/modid:id
-	growYoung = ["dragonsurvival:weak_dragon_heart", "dragonsurvival:elder_dragon_heart", ""iceandfire:fire_dragon_heart", "iceandfire:ice_dragon_heart", "iceandfire:lightning_dragon_heart"]
+	growYoung = ["dragonsurvival:weak_dragon_heart", "dragonsurvival:elder_dragon_heart", "iceandfire:fire_dragon_heart", "iceandfire:ice_dragon_heart", "iceandfire:lightning_dragon_heart"]
 	#List of items to grow newborn dragon. Format: item/modid:id
-	growNewborn = ["dragonsurvival:heart_element", "dragonsurvival:weak_dragon_heart", "dragonsurvival:elder_dragon_heart", ""iceandfire:fire_dragon_heart", "iceandfire:ice_dragon_heart", "iceandfire:lightning_dragon_heart"]
+	growNewborn = ["dragonsurvival:heart_element", "dragonsurvival:weak_dragon_heart", "dragonsurvival:elder_dragon_heart", "iceandfire:fire_dragon_heart", "iceandfire:ice_dragon_heart", "iceandfire:lightning_dragon_heart"]
 
 	[growth.standard_dragon]
 		#A multiplier to change the growth rate from full sized adult to max size. The change in growth after the maximum adult size is measured in months and years.
