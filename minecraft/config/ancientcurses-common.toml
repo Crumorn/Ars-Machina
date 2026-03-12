@@ -2,11 +2,11 @@
 [Structures]
 	#Spawn chance for the Cursed Altar structure
 	#Range: 0.0 ~ 1.0
-	cursedAltarSpawnChance = 1.0
+	cursedAltarSpawnChance = 0.5
 	#Biomes where the Cursed Altar should NOT spawn.
 	#Use biome IDs (e.g. "minecraft:ocean") or tags with a leading # (e.g. "#minecraft:is_river")
 	#Examples: ["minecraft:ocean", "minecraft:river", "#minecraft:is_beach"]
-	cursedAltarBiomeBlacklist = []
+	cursedAltarBiomeBlacklist = ["minecraft:ocean", "minecraft:river", "#minecraft:is_beach"]
 
 ["Curse Modifiers"]
 	#Minimum number of seconds that a Survival Trial can curse the player for

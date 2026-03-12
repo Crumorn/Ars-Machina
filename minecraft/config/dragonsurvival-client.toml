@@ -27,7 +27,7 @@
 	#Enable client-side debug messages
 	clientDebugMessages = false
 	#Should the cast mode where you click the keybind to cast be used?
-	alternateCastMode = false
+	alternateCastMode = true
 	#The amount of undos and redos that are saved in the dragon editor.
 	#Range: 1 ~ 1000
 	editorHistory = 10
@@ -60,7 +60,7 @@
 
 [nametag]
 	#Show name tags for dragons.
-	dragonNameTags = false
+	dragonNameTags = true
 
 [inventory]
 	#Should the third person item render for dragons use the default rotations? Use this if modded items are rendering weird when held.

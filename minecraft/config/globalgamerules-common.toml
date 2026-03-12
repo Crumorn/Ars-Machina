@@ -42,7 +42,7 @@
 
 	[gamerules.player]
 		#Whether the server should skip checking player speed when the player is wearing elytra. Often helps with jittering due to lag in multiplayer.
-		disable_elytra_movement_check = false
+		disable_elytra_movement_check = true
 		#Players respawn immediately without showing the death screen.
 		do_immediate_respawn = false
 		#Whether players can craft only those recipes that they have unlocked.
@@ -61,7 +61,7 @@
 		natural_regeneration = true
 		#What percentage of players must sleep to skip the night.
 		#Range: > -2147483648
-		players_sleeping_percentage = 100
+		players_sleeping_percentage = 49
 		#The number of blocks outward from the world spawn coordinates that a player spawns in when first joining a server or when dying without a personal spawnpoint. Has no effect on servers where the default game mode is Adventure.
 		#Range: > -2147483648
 		spawn_radius = 10
@@ -127,7 +127,7 @@
 			startingHearts = 10
 			keepArrows = true
 			giveWikiBook = true
-			heartLossOnDeath = false
+			heartLossOnDeath = true
 			enableGoggles = false
 
 			[gamerules.modded.player.accessories]
@@ -144,7 +144,7 @@
 	set_difficulty = false
 	#The difficulty to set if 'set_difficulty' is true, respects if the difficulty is locked or not for the world
 	#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
-	difficulty = "NORMAL"
+	difficulty = "HARD"
 	#If true the 'hardcore' setting is enforced
 	#If false the 'hardcore' setting isn't checked against the setting of a world
 	enforce_hardcore = true
@@ -153,7 +153,7 @@
 	hardcore = false
 	#If a world's difficulty should be locked when loaded, if world already is locked it can't be changed
 	#If the global world difficulty is enabled it's set first
-	lock_difficulty = false
+	lock_difficulty = true
 
 #A collection of misc configs
 [misc]

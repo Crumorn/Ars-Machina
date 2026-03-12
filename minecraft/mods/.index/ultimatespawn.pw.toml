@@ -1,0 +1,16 @@
+filename = 'UltimateSpawn-forge-1.20.1-2.5.0.jar'
+name = 'UltimateSpawn'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fab51a441a3b9b3c29eb348a3a86bb043bdb4be36eec6e1c804863a291961240ea9363cccbbf839a569ef15446f99aa973c2d6c77d3c16b6a307e4d5fe46b7c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/y7cEIWv4/versions/TldTtSRU/UltimateSpawn-forge-1.20.1-2.5.0.jar'
+
+[update.modrinth]
+mod-id = 'y7cEIWv4'
+version = 'TldTtSRU'

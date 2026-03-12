@@ -65,6 +65,9 @@
   "petrolpark": {
     "contamination": true
   },
+  "corpse": {
+    "corpse": true
+  },
   "jade_vs": {
     "block_velocity.display_mode": "SPEED_ONLY",
     "ship_angular_velocity.degrees_mode": true,
