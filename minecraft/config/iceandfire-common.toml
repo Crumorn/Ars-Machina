@@ -6,13 +6,13 @@
 		"Generate Dragon Skeletons" = true
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Skeleton Chance" = 900
+		"Generate Dragon Skeleton Chance" = 450
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Cave Chance" = 540
+		"Generate Dragon Cave Chance" = 360
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Roost Chance" = 1080
+		"Generate Dragon Roost Chance" = 720
 		#1 out of this number chance per block that gold will generate in dragon lairs.
 		#Range: 1 ~ 10000
 		"Dragon Den Gold Amount" = 3
@@ -33,11 +33,11 @@
 		#Range: 1 ~ 10000
 		"Glacier Spawn Weight" = 2
 		#True if mausoleums are allowed to generate
-		"Generate Mausoleums" = true
+		"Generate Mausoleums" = false
 		#Whether to generate graveyards or not
 		"Generate Graveyards" = true
 		#True if gorgon temples are allowed to spawn
-		"Generate Gorgon Temple" = true
+		"Generate Gorgon Temple" = false
 
 [Dragons]
 
