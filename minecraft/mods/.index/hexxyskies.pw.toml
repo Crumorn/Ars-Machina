@@ -1,0 +1,16 @@
+filename = 'hexxyskies-forge-2.0.2.jar'
+name = 'Hexxy Skies'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3c61250a4ddba839cddbccd99d9d9f0055cc05ae1cb34a1fbe06e1010b4d1568402b5aada81da4a2ca857b55db3510c90d42b0540b58065a52b499f4fbbd265b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ta01udVD/versions/yfnYzo1j/hexxyskies-forge-2.0.2.jar'
+
+[update.modrinth]
+mod-id = 'ta01udVD'
+version = 'yfnYzo1j'

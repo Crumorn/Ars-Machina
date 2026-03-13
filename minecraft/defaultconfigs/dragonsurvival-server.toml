@@ -39,7 +39,7 @@
 [magic]
 	#The base range of the breath attack (breath range increases with dragon growth)
 	#Range: 0 ~ 10
-	baseBreathRange = 3
+	baseBreathRange = 4
 	#The multiplier that is used to increase the passive skill costs per level
 	#Range: 0.0 ~ 100.0
 	passiveScalingCost = 6.0
@@ -304,14 +304,14 @@
 					toughSkinCooldown = 30.0
 					#The duration in seconds of the tough skin effect given when the ability is used
 					#Range: 1.0 ~ 10000.0
-					toughSkinDuration = 200.0
+					toughSkinDuration = 300.0
 					#Whether the tough skin ability should be enabled
 					toughSkin = true
 
 				[magic.abilities.cave_dragon.actives.fire_breath]
 					#The cast time in seconds of the fire breath ability
 					#Range: 0.05 ~ 10000.0
-					fireBreathCasttime = 1.0
+					fireBreathCasttime = 0.75
 					#The cooldown in seconds of the fire breath ability
 					#Range: 0.05 ~ 10000.0
 					fireBreathCooldown = 5.0
@@ -346,7 +346,7 @@
 					lavaVisionCooldown = 30.0
 					#The duration in seconds of the lava vision effect given when the ability is used
 					#Range: 1.0 ~ 10000.0
-					lavaVisionDuration = 100.0
+					lavaVisionDuration = 600.0
 					#Whether the lava vision ability should be enabled
 					lavaVision = true
 
@@ -359,10 +359,10 @@
 					fireballDamage = 5.0
 					#The cast time in seconds of the fireball ability
 					#Range: 0.05 ~ 10000.0
-					fireballCasttime = 2.0
+					fireballCasttime = 0.5
 					#The cooldown in seconds of the fireball ability
 					#Range: 0.05 ~ 10000.0
-					fireballCooldown = 7.0
+					fireballCooldown = 5.0
 					#Whether the fireball ability should be enabled
 					fireball = true
 
@@ -557,7 +557,7 @@
 		#Dragon food formatting: mod_id:item_id:nutrition:saturation
 		#Nutrition / saturation values are optional as the human values will be used if missing.
 		#Saturation can be defined with decimals (e.g. 0.3)
-		caveDragon = ["minecraft:coals:1:1", "minecraft:charcoal:1:2", "dragonsurvival:charged_coal:6:1", "dragonsurvival:charred_meat:8:10", "dragonsurvival:cave_dragon_treat:4:8", "dragonsurvival:charred_seafood:7:11", "dragonsurvival:charred_vegetable:8:9", "dragonsurvival:charred_mushroom:9:9", "dragonsurvival:charged_soup:15:15", "dragonsurvival:hot_dragon_rod:4:15", "dragonsurvival:explosive_copper:6:4", "dragonsurvival:double_quartz:8:6", "dragonsurvival:quartz_explosive_copper:12:18", "netherdepthsupgrade:blazefish:6:7", "netherdepthsupgrade:cooked_magmacubefish_slice:2:2", "netherdepthsupgrade:blazefish_slice:2:2", "infernalexp:molten_gold_cluster:2:6", "netherdepthsupgrade:magmacubefish:6:7", "desolation:cinder_fruit:6:7", "desolation:powered_cinder_fruit:8:12", "desolation:activatedcharcoal:2:2", "desolation:infused_powder:10:10", "desolation:primed_ash:7:8", "undergarden:ditchbulb:5:6", "xreliquary:molten_core:1:1", "silents_mechanisms:coal_generator_fuels:1:1", "mekanism:dust_charcoal:1:1", "mekanism:dust_coal:1:1", "rats:nether_cheese", "potionsmaster:charcoal_powder:1:1", "potionsmaster:coal_powder:1:1", "potionsmaster:activated_charcoal:2:2", "thermal:coal_coke:1:1", "infernalexp:glowcoal:2:3", "resourcefulbees:coal_honeycomb:5:5", "resourcefulbees:netherite_honeycomb:5:5", "lazierae2:coal_dust:1:1", "silents_mechanisms:coal_dust:1:1", "potionsmaster:calcinatedcoal_powder:1:1", "thermal:basalz_rod:2:4", "thermal:basalz_powder:1:2", "druidcraft:fiery_glass:2:2", "create:blaze_cake:10:10", "create:creative_blaze_cake:50:50", "upgradednetherite:fire_essence:12:4", "netherdepthsupgrade:fortress_grouper:3:1", "nethersdelight:nether_skewer:6:8"]
+		caveDragon = ["minecraft:coals:1:1", "minecraft:charcoal:1:2", "minecraft:quartz:1:2", "minecraft:amethyst_shard:2:2", "dragonsurvival:charged_coal:6:1", "dragonsurvival:charred_meat:8:10", "dragonsurvival:cave_dragon_treat:4:8", "dragonsurvival:charred_seafood:7:11", "dragonsurvival:charred_vegetable:8:9", "dragonsurvival:charred_mushroom:9:9", "dragonsurvival:charged_soup:15:15", "dragonsurvival:hot_dragon_rod:4:15", "dragonsurvival:explosive_copper:6:4", "dragonsurvival:double_quartz:8:6", "dragonsurvival:quartz_explosive_copper:12:18", "netherdepthsupgrade:blazefish:6:7", "netherdepthsupgrade:cooked_magmacubefish_slice:2:2", "netherdepthsupgrade:blazefish_slice:2:2", "infernalexp:molten_gold_cluster:2:6", "netherdepthsupgrade:magmacubefish:6:7", "desolation:cinder_fruit:6:7", "desolation:powered_cinder_fruit:8:12", "desolation:activatedcharcoal:2:2", "desolation:infused_powder:10:10", "desolation:primed_ash:7:8", "undergarden:ditchbulb:5:6", "xreliquary:molten_core:1:1", "silents_mechanisms:coal_generator_fuels:1:1", "mekanism:dust_charcoal:1:1", "mekanism:dust_coal:1:1", "rats:nether_cheese", "potionsmaster:charcoal_powder:1:1", "potionsmaster:coal_powder:1:1", "potionsmaster:activated_charcoal:2:2", "thermal:coal_coke:1:1", "infernalexp:glowcoal:2:3", "resourcefulbees:coal_honeycomb:5:5", "resourcefulbees:netherite_honeycomb:5:5", "lazierae2:coal_dust:1:1", "silents_mechanisms:coal_dust:1:1", "potionsmaster:calcinatedcoal_powder:1:1", "thermal:basalz_rod:2:4", "thermal:basalz_powder:1:2", "druidcraft:fiery_glass:2:2", "create:blaze_cake:10:10", "create:creative_blaze_cake:50:50", "upgradednetherite:fire_essence:12:4", "netherdepthsupgrade:fortress_grouper:3:1", "nethersdelight:nether_skewer:6:8"]
 
 		[food.cave_dragon.other]
 			#How long in seconds should the cave fire effect from charged soup last. (Default to 5min) Set to 0 to disable.
@@ -588,11 +588,11 @@
 
 [drops]
 	#Should the elderDragonHeartUseList be used instead of the health requirement?
-	elderDragonHeartUseList = false
+	elderDragonHeartUseList = true
 	#Should the weakDragonHeartUseList be used instead of the health requirement?
-	weakDragonHeartUseList = false
+	weakDragonHeartUseList = true
 	#Should the dragonHeartEntityList be used instead of the health requirement?
-	dragonHeartUseList = false
+	dragonHeartUseList = true
 	#Should the elderDragonHeartEntityList be treated as an allowlist rather than a block list?
 	elderDragonHeartWhiteList = true
 	#Should the weakDragonHeartEntityList be treated as an allowlist rather than a block list?
@@ -629,7 +629,7 @@
 		dragonOreDustChance = 0.02
 		#The odds of dust dropping when a human harvests an ore.
 		#Range: 0.0 ~ 1.0
-		humanOreDustChance = 0.01
+		humanOreDustChance = 0.00
 
 [penalties]
 	#If enabled animals will try run away from dragons
@@ -1066,11 +1066,11 @@
 	saveGrowthStage = true
 	#Defines the max size your dragon can grow to. Values that are too high can break your game. It is not advisable to set a number higher than 60.
 	#Range: 14.0 ~ 1000000.0
-	maxGrowthSize = 180.0
+	maxGrowthSize = 240.0
 	#If true, dragons will grow without the use of catalyst grow items. Does not broker the use of items. Just an additional type of growth.
 	alternateGrowing = true
 	#List of items to grow adult dragon. Format: item/modid:id
-	growAdult = ["dragonsurvival:elder_dragon_heart"]
+	growAdult = ["dragonsurvival:elder_dragon_heart", "iceandfire:fire_dragon_heart", "iceandfire:ice_dragon_heart", "iceandfire:lightning_dragon_heart"]
 	#List of items to grow young dragon. Format: item/modid:id
 	growYoung = ["dragonsurvival:weak_dragon_heart", "dragonsurvival:elder_dragon_heart", "iceandfire:fire_dragon_heart", "iceandfire:ice_dragon_heart", "iceandfire:lightning_dragon_heart"]
 	#List of items to grow newborn dragon. Format: item/modid:id
@@ -1083,15 +1083,15 @@
 		#A multiplier to change the growth rate from adult to a full sized adult. At 1.0 it takes about 3 days to become a dragon of maximum adult size.
 		#Range: 0.0 ~ 1000.0
 		#Thalmyr Note Here: This should be about 864 mincraft days, or just about 12 real life days. 
-		adultGrowthModifier = 4.0
+		adultGrowthModifier = 0.25
 		#A multiplier to change the growth rate from young to adult. At 1.0 it takes about 1 day to turn a young dragon into a adult dragon.
 		#Range: 0.0 ~ 1000.0
 		#Thalmyr Note Here: This should be about 760 mincraft days, or just about 240 hours (10 days real life time). This should make it hard to just simply AFK into adult hood.
-		youngGrowthModifier = 10.0
+		youngGrowthModifier = 0.1
 		#A multiplier to change the growth rate from newborn to young. At 1.0 it takes about 3 hours to turn a newborn dragon into a young dragon.
 		#Range: 0.0 ~ 1000.0
 		#Thalmyr Note Here: This should be about 30 mincraft days, or just about 10 hours 
-		newbornGrowthModifier = 3.3
+		newbornGrowthModifier = 0.3
 		#The bonus that is given to dragons at 60 size. The bonus gradually scales up to the maximum size. Human players have 1.0x reach and a size 60 dragon will have 1.5x distance with default values.
 		#Range: 0.0 ~ 1000000.0
 		reachBonus = 0.5
@@ -1127,7 +1127,7 @@
 		largeMovementSpeedScalar = 0.5
 		#The maximum health when the dragon is at maximum growth size if large scaling is enabled.
 		#Range: 1 ~ 1000
-		largeMaxHealth = 120
+		largeMaxHealth = 180
 		#Allow a dragon's max health, damage, reach, step height, and jump height to continue to scale with growth beyond its normal limits.
 		allowLargeScaling = true
 		#The size at which a dragon can begin to crush entities.
