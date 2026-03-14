@@ -1,49 +1,4 @@
 {
-	"disc.minecraft.nuance1": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nuance1"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.nuance1"
-	},
-	"disc.minecraft.nuance2": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nuance2"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.nuance2"
-	},
-	"disc.witherstormmod.wither_storm_bowels_exposed_theme": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "witherstormmod:music/wither_storm_bowels_exposed_theme"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_bowels_exposed_theme"
-	},
-	"disc.minecraft.chrysopoeia": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nether/crimson_forest/chrysopoeia"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.chrysopoeia"
-	},
-	"disc.lost_aether_content.platinum_boss_foggy": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "lost_aether_content:music/platinum_boss_foggy"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.lost_aether_content.platinum_boss_foggy"
-	},
 	"disc.aether.slider_fight": {
 		"sounds": [
 			{
@@ -52,114 +7,6 @@
 			}
 		],
 		"subtitle": "infinity:subtitles.disc.aether.slider_fight"
-	},
-	"disc.the_deep_void.dark-fantasy-studio-pitch-black-_royalty-free-epic-horror-dark-ambient-music_-_1_": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "the_deep_void:dark-fantasy-studio-pitch-black-_royalty-free-epic-horror-dark-ambient-music_-_1_"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.the_deep_void.dark-fantasy-studio-pitch-black-_royalty-free-epic-horror-dark-ambient-music_-_1_"
-	},
-	"disc.the_deep_void.dark-fantasy-studio-chainsaw_-no-copyright-music": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "the_deep_void:dark-fantasy-studio-chainsaw_-no-copyright-music"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.the_deep_void.dark-fantasy-studio-chainsaw_-no-copyright-music"
-	},
-	"disc.minecraft.rubedo": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nether/nether_wastes/rubedo"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.rubedo"
-	},
-	"disc.aether.sun_spirit_fight": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "aether:music/boss/sun_spirit_fight"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.aether.sun_spirit_fight"
-	},
-	"disc.minecraft.labyrinthine": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/swamp/labyrinthine"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.labyrinthine"
-	},
-	"disc.geckolib.jack_in_the_box_music": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "geckolib:jack_in_the_box_music"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.geckolib.jack_in_the_box_music"
-	},
-	"disc.aether.valkyrie_queen_fight": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "aether:music/boss/valkyrie_queen_fight"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.aether.valkyrie_queen_fight"
-	},
-	"disc.minecraft.floating_dream": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/floating_dream"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.floating_dream"
-	},
-	"disc.ribbits.maraca": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "ribbits:music/maraca"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.ribbits.maraca"
-	},
-	"disc.witherstormmod.withered_symbiont_intense_theme": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "witherstormmod:music/withered_symbiont_intense_theme"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.witherstormmod.withered_symbiont_intense_theme"
-	},
-	"disc.ivory.hope_instilled": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "ivory:music/hope_instilled"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.ivory.hope_instilled"
-	},
-	"disc.ribbits.ribbit_flute": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "ribbits:music/ribbit_flute"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.ribbits.ribbit_flute"
 	},
 	"disc.minecraft.comforting_memories": {
 		"sounds": [
@@ -170,266 +17,14 @@
 		],
 		"subtitle": "infinity:subtitles.disc.minecraft.comforting_memories"
 	},
-	"disc.minecraft.creative1": {
+	"disc.minecraft.aerie": {
 		"sounds": [
 			{
 				"stream": true,
-				"name": "minecraft:music/game/creative/creative1"
+				"name": "minecraft:music/game/swamp/aerie"
 			}
 		],
-		"subtitle": "infinity:subtitles.disc.minecraft.creative1"
-	},
-	"disc.minecraft.creative2": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/creative/creative2"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.creative2"
-	},
-	"disc.minecraft.creative3": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/creative/creative3"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.creative3"
-	},
-	"disc.minecraft.creative4": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/creative/creative4"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.creative4"
-	},
-	"disc.minecraft.creative5": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/creative/creative5"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.creative5"
-	},
-	"disc.minecraft.creative6": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/creative/creative6"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.creative6"
-	},
-	"disc.netherexp.hospital": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "netherexp:music/game/nether/warped_forest/hospital"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.netherexp.hospital"
-	},
-	"disc.the_deep_void.dark-fantasy-studio-sins-and-sinners-_royalty-free-horror-music_": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "the_deep_void:dark-fantasy-studio-sins-and-sinners-_royalty-free-horror-music_"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.the_deep_void.dark-fantasy-studio-sins-and-sinners-_royalty-free-horror-music_"
-	},
-	"disc.minecraft.nether4": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nether/nether4"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.nether4"
-	},
-	"disc.stellarity.intro": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "stellarity:music/intro"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.stellarity.intro"
-	},
-	"disc.minecraft.nether3": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nether/nether3"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.nether3"
-	},
-	"disc.ribbits.ribbit_guitar": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "ribbits:music/ribbit_guitar"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.ribbits.ribbit_guitar"
-	},
-	"disc.minecraft.nether2": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nether/nether2"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.nether2"
-	},
-	"disc.minecraft.left_to_bloom": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/left_to_bloom"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.left_to_bloom"
-	},
-	"disc.minecraft.hal2": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/hal2"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.hal2"
-	},
-	"disc.minecraft.nether1": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nether/nether1"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.nether1"
-	},
-	"disc.minecraft.menu1": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/menu/menu1"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.menu1"
-	},
-	"disc.minecraft.hal1": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/hal1"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.hal1"
-	},
-	"disc.minecraft.menu2": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/menu/menu2"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.menu2"
-	},
-	"disc.minecraft.hal4": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/hal4"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.hal4"
-	},
-	"disc.minecraft.menu3": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/menu/menu3"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.menu3"
-	},
-	"disc.minecraft.hal3": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/hal3"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.hal3"
-	},
-	"disc.minecraft.menu4": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/menu/menu4"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.menu4"
-	},
-	"disc.minecraft.end": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/end/end"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.end"
-	},
-	"disc.minecraft.shuniji": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/water/shuniji"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.shuniji"
-	},
-	"disc.minecraft.axolotl": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/water/axolotl"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.axolotl"
-	},
-	"disc.the_deep_void.free-music_-dark-horror-piano-_monster_s-lair_-scary-royalty-free-ambience": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "the_deep_void:free-music_-dark-horror-piano-_monster_s-lair_-scary-royalty-free-ambience"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.the_deep_void.free-music_-dark-horror-piano-_monster_s-lair_-scary-royalty-free-ambience"
-	},
-	"disc.witherstormmod.wither_storm_boss_theme": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "witherstormmod:music/wither_storm_boss_theme"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_boss_theme"
-	},
-	"disc.minecraft.stand_tall": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/stand_tall"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.stand_tall"
+		"subtitle": "infinity:subtitles.disc.minecraft.aerie"
 	},
 	"disc.ivory.challenger": {
 		"sounds": [
@@ -440,329 +35,14 @@
 		],
 		"subtitle": "infinity:subtitles.disc.ivory.challenger"
 	},
-	"disc.minecraft.calm3": {
+	"disc.ivory.hope_instilled": {
 		"sounds": [
 			{
 				"stream": true,
-				"name": "minecraft:music/game/calm3"
+				"name": "ivory:music/hope_instilled"
 			}
 		],
-		"subtitle": "infinity:subtitles.disc.minecraft.calm3"
-	},
-	"disc.minecraft.echo_in_the_wind": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/echo_in_the_wind"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.echo_in_the_wind"
-	},
-	"disc.stellarity.eleven": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "stellarity:music/eleven"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.stellarity.eleven"
-	},
-	"disc.stellarity.voide": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "stellarity:music/voide"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.stellarity.voide"
-	},
-	"disc.minecraft.calm1": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/calm1"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.calm1"
-	},
-	"disc.minecraft.calm2": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/calm2"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.calm2"
-	},
-	"disc.minecraft.a_familiar_room": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/a_familiar_room"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.a_familiar_room"
-	},
-	"disc.stellarity.threshold": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "stellarity:music/threshold"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.stellarity.threshold"
-	},
-	"disc.minecraft.an_ordinary_day": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/an_ordinary_day"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.an_ordinary_day"
-	},
-	"disc.ribbits.ribbit_bongo": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "ribbits:music/ribbit_bongo"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.ribbits.ribbit_bongo"
-	},
-	"disc.witherstormmod.withered_symbiont_theme": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "witherstormmod:music/withered_symbiont_theme"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.witherstormmod.withered_symbiont_theme"
-	},
-	"disc.minecraft.boss": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/end/boss"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.boss"
-	},
-	"disc.minecraft.infinite_amethyst": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/infinite_amethyst"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.infinite_amethyst"
-	},
-	"disc.aether.aether5": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "aether:music/aether5"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.aether.aether5"
-	},
-	"disc.netherexp.sublimate": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "netherexp:music/game/nether/soul_sand_valley/black_ice_glaciers/sublimate"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.netherexp.sublimate"
-	},
-	"disc.minecraft.crescent_dunes": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/crescent_dunes"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.crescent_dunes"
-	},
-	"disc.minecraft.so_below": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/nether/soulsand_valley/so_below"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.so_below"
-	},
-	"disc.lost_aether_content.platinum_boss": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "lost_aether_content:music/platinum_boss"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.lost_aether_content.platinum_boss"
-	},
-	"disc.witherstormmod.wither_storm_final_boss_theme": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "witherstormmod:music/wither_storm_final_boss_theme"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_final_boss_theme"
-	},
-	"disc.aether.aether2": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "aether:music/aether2"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.aether.aether2"
-	},
-	"disc.aether.aether1": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "aether:music/aether1"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.aether.aether1"
-	},
-	"disc.aether.aether4": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "aether:music/aether4"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.aether.aether4"
-	},
-	"disc.aether.aether3": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "aether:music/aether3"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.aether.aether3"
-	},
-	"disc.stellarity.excuse": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "stellarity:music/excuse"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.stellarity.excuse"
-	},
-	"disc.minecraft.aerie": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/swamp/aerie"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.aerie"
-	},
-	"disc.minecraft.one_more_day": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/one_more_day"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.one_more_day"
-	},
-	"disc.aether.menu": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "aether:music/menu"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.aether.menu"
-	},
-	"disc.ribbits.ribbit_bass": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "ribbits:music/ribbit_bass"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.ribbits.ribbit_bass"
-	},
-	"disc.minecraft.bromeliad": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/bromeliad"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.bromeliad"
-	},
-	"disc.the_deep_void.monst3r-music_-from-within--dark-ambient-horror-soundscape": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "the_deep_void:monst3r-music_-from-within--dark-ambient-horror-soundscape"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.the_deep_void.monst3r-music_-from-within--dark-ambient-horror-soundscape"
-	},
-	"disc.stellarity.ki": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "stellarity:music/ki"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.stellarity.ki"
-	},
-	"disc.witherstormmod.wither_storm_formidibomb_theme": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "witherstormmod:music/wither_storm_formidibomb_theme"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_formidibomb_theme"
-	},
-	"disc.witherstormmod.wither_storm_reviving_theme": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "witherstormmod:music/wither_storm_reviving_theme"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_reviving_theme"
-	},
-	"disc.minecraft.ancestry": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/ancestry"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.ancestry"
-	},
-	"disc.minecraft.credits": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/end/credits"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.credits"
-	},
-	"disc.minecraft.piano2": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "minecraft:music/game/piano2"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.minecraft.piano2"
+		"subtitle": "infinity:subtitles.disc.ivory.hope_instilled"
 	},
 	"disc.minecraft.piano1": {
 		"sounds": [
@@ -773,32 +53,131 @@
 		],
 		"subtitle": "infinity:subtitles.disc.minecraft.piano1"
 	},
-	"disc.minecraft.dragon_fish": {
+	"disc.minecraft.nether3": {
 		"sounds": [
 			{
 				"stream": true,
-				"name": "minecraft:music/game/water/dragon_fish"
+				"name": "minecraft:music/game/nether/nether3"
 			}
 		],
-		"subtitle": "infinity:subtitles.disc.minecraft.dragon_fish"
+		"subtitle": "infinity:subtitles.disc.minecraft.nether3"
 	},
-	"disc.stellarity.to_the_beggining": {
+	"disc.minecraft.calm3": {
 		"sounds": [
 			{
 				"stream": true,
-				"name": "stellarity:music/to_the_beggining"
+				"name": "minecraft:music/game/calm3"
 			}
 		],
-		"subtitle": "infinity:subtitles.disc.stellarity.to_the_beggining"
+		"subtitle": "infinity:subtitles.disc.minecraft.calm3"
 	},
-	"disc.stellarity.end": {
+	"disc.minecraft.nether4": {
 		"sounds": [
 			{
 				"stream": true,
-				"name": "stellarity:music/end"
+				"name": "minecraft:music/game/nether/nether4"
 			}
 		],
-		"subtitle": "infinity:subtitles.disc.stellarity.end"
+		"subtitle": "infinity:subtitles.disc.minecraft.nether4"
+	},
+	"disc.minecraft.creative4": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/creative4"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.creative4"
+	},
+	"disc.stellarity.ki": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/ki"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.ki"
+	},
+	"disc.minecraft.creative3": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/creative3"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.creative3"
+	},
+	"disc.stellarity.voide": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/voide"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.voide"
+	},
+	"disc.minecraft.labyrinthine": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/swamp/labyrinthine"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.labyrinthine"
+	},
+	"disc.witherstormmod.wither_storm_final_boss_theme": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "witherstormmod:music/wither_storm_final_boss_theme"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_final_boss_theme"
+	},
+	"disc.minecraft.crescent_dunes": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/crescent_dunes"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.crescent_dunes"
+	},
+	"disc.minecraft.floating_dream": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/floating_dream"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.floating_dream"
+	},
+	"disc.ribbits.ribbit_guitar": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "ribbits:music/ribbit_guitar"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.ribbits.ribbit_guitar"
+	},
+	"disc.ribbits.ribbit_bass": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "ribbits:music/ribbit_bass"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.ribbits.ribbit_bass"
+	},
+	"disc.stellarity.intro": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/intro"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.intro"
 	},
 	"disc.minecraft.piano3": {
 		"sounds": [
@@ -809,14 +188,203 @@
 		],
 		"subtitle": "infinity:subtitles.disc.minecraft.piano3"
 	},
-	"disc.minecraft.firebugs": {
+	"disc.netherexp.sublimate": {
 		"sounds": [
 			{
 				"stream": true,
-				"name": "minecraft:music/game/swamp/firebugs"
+				"name": "netherexp:music/game/nether/soul_sand_valley/black_ice_glaciers/sublimate"
 			}
 		],
-		"subtitle": "infinity:subtitles.disc.minecraft.firebugs"
+		"subtitle": "infinity:subtitles.disc.netherexp.sublimate"
+	},
+	"disc.minecraft.piano2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/piano2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.piano2"
+	},
+	"disc.stellarity.eleven": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/eleven"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.eleven"
+	},
+	"disc.minecraft.rubedo": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/nether_wastes/rubedo"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.rubedo"
+	},
+	"disc.the_deep_void.free-music_-dark-horror-piano-_monster_s-lair_-scary-royalty-free-ambience": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "the_deep_void:free-music_-dark-horror-piano-_monster_s-lair_-scary-royalty-free-ambience"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.the_deep_void.free-music_-dark-horror-piano-_monster_s-lair_-scary-royalty-free-ambience"
+	},
+	"disc.minecraft.one_more_day": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/one_more_day"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.one_more_day"
+	},
+	"disc.minecraft.bromeliad": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/bromeliad"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.bromeliad"
+	},
+	"disc.lost_aether_content.platinum_boss": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "lost_aether_content:music/platinum_boss"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.lost_aether_content.platinum_boss"
+	},
+	"disc.ribbits.ribbit_flute": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "ribbits:music/ribbit_flute"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.ribbits.ribbit_flute"
+	},
+	"disc.minecraft.so_below": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/soulsand_valley/so_below"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.so_below"
+	},
+	"disc.the_deep_void.dark-fantasy-studio-sins-and-sinners-_royalty-free-horror-music_": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "the_deep_void:dark-fantasy-studio-sins-and-sinners-_royalty-free-horror-music_"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.the_deep_void.dark-fantasy-studio-sins-and-sinners-_royalty-free-horror-music_"
+	},
+	"disc.ribbits.maraca": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "ribbits:music/maraca"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.ribbits.maraca"
+	},
+	"disc.witherstormmod.wither_storm_formidibomb_theme": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "witherstormmod:music/wither_storm_formidibomb_theme"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_formidibomb_theme"
+	},
+	"disc.minecraft.menu4": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/menu/menu4"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.menu4"
+	},
+	"disc.minecraft.menu3": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/menu/menu3"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.menu3"
+	},
+	"disc.minecraft.menu1": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/menu/menu1"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.menu1"
+	},
+	"disc.the_deep_void.dark-fantasy-studio-chainsaw_-no-copyright-music": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "the_deep_void:dark-fantasy-studio-chainsaw_-no-copyright-music"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.the_deep_void.dark-fantasy-studio-chainsaw_-no-copyright-music"
+	},
+	"disc.minecraft.menu2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/menu/menu2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.menu2"
+	},
+	"disc.aether.aether4": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "aether:music/aether4"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.aether.aether4"
+	},
+	"disc.stellarity.to_the_beggining": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/to_the_beggining"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.to_the_beggining"
+	},
+	"disc.minecraft.boss": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/end/boss"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.boss"
+	},
+	"disc.aether.aether5": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "aether:music/aether5"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.aether.aether5"
 	},
 	"disc.minecraft.wending": {
 		"sounds": [
@@ -826,5 +394,437 @@
 			}
 		],
 		"subtitle": "infinity:subtitles.disc.minecraft.wending"
+	},
+	"disc.ribbits.ribbit_bongo": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "ribbits:music/ribbit_bongo"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.ribbits.ribbit_bongo"
+	},
+	"disc.minecraft.nuance2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nuance2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.nuance2"
+	},
+	"disc.stellarity.excuse": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/excuse"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.excuse"
+	},
+	"disc.witherstormmod.withered_symbiont_theme": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "witherstormmod:music/withered_symbiont_theme"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.witherstormmod.withered_symbiont_theme"
+	},
+	"disc.witherstormmod.withered_symbiont_intense_theme": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "witherstormmod:music/withered_symbiont_intense_theme"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.witherstormmod.withered_symbiont_intense_theme"
+	},
+	"disc.witherstormmod.wither_storm_reviving_theme": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "witherstormmod:music/wither_storm_reviving_theme"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_reviving_theme"
+	},
+	"disc.witherstormmod.wither_storm_bowels_exposed_theme": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "witherstormmod:music/wither_storm_bowels_exposed_theme"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_bowels_exposed_theme"
+	},
+	"disc.lost_aether_content.platinum_boss_foggy": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "lost_aether_content:music/platinum_boss_foggy"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.lost_aether_content.platinum_boss_foggy"
+	},
+	"disc.minecraft.nether1": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/nether1"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.nether1"
+	},
+	"disc.witherstormmod.wither_storm_boss_theme": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "witherstormmod:music/wither_storm_boss_theme"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.witherstormmod.wither_storm_boss_theme"
+	},
+	"disc.aether.menu": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "aether:music/menu"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.aether.menu"
+	},
+	"disc.minecraft.shuniji": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/water/shuniji"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.shuniji"
+	},
+	"disc.minecraft.dragon_fish": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/water/dragon_fish"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.dragon_fish"
+	},
+	"disc.netherexp.hospital": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "netherexp:music/game/nether/warped_forest/hospital"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.netherexp.hospital"
+	},
+	"disc.minecraft.a_familiar_room": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/a_familiar_room"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.a_familiar_room"
+	},
+	"disc.minecraft.axolotl": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/water/axolotl"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.axolotl"
+	},
+	"disc.minecraft.nuance1": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nuance1"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.nuance1"
+	},
+	"disc.minecraft.end": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/end/end"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.end"
+	},
+	"disc.aether.valkyrie_queen_fight": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "aether:music/boss/valkyrie_queen_fight"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.aether.valkyrie_queen_fight"
+	},
+	"disc.minecraft.chrysopoeia": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/crimson_forest/chrysopoeia"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.chrysopoeia"
+	},
+	"disc.aether.aether2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "aether:music/aether2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.aether.aether2"
+	},
+	"disc.minecraft.calm2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/calm2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.calm2"
+	},
+	"disc.minecraft.an_ordinary_day": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/an_ordinary_day"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.an_ordinary_day"
+	},
+	"disc.minecraft.infinite_amethyst": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/infinite_amethyst"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.infinite_amethyst"
+	},
+	"disc.minecraft.nether2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/nether2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.nether2"
+	},
+	"disc.minecraft.creative1": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/creative1"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.creative1"
+	},
+	"disc.minecraft.creative6": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/creative6"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.creative6"
+	},
+	"disc.minecraft.creative5": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/creative5"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.creative5"
+	},
+	"disc.minecraft.creative2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/creative2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.creative2"
+	},
+	"disc.minecraft.firebugs": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/swamp/firebugs"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.firebugs"
+	},
+	"disc.minecraft.stand_tall": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/stand_tall"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.stand_tall"
+	},
+	"disc.aether.sun_spirit_fight": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "aether:music/boss/sun_spirit_fight"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.aether.sun_spirit_fight"
+	},
+	"disc.stellarity.end": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/end"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.end"
+	},
+	"disc.geckolib.jack_in_the_box_music": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "geckolib:jack_in_the_box_music"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.geckolib.jack_in_the_box_music"
+	},
+	"disc.minecraft.ancestry": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/ancestry"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.ancestry"
+	},
+	"disc.the_deep_void.monst3r-music_-from-within--dark-ambient-horror-soundscape": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "the_deep_void:monst3r-music_-from-within--dark-ambient-horror-soundscape"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.the_deep_void.monst3r-music_-from-within--dark-ambient-horror-soundscape"
+	},
+	"disc.aether.aether3": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "aether:music/aether3"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.aether.aether3"
+	},
+	"disc.aether.aether1": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "aether:music/aether1"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.aether.aether1"
+	},
+	"disc.minecraft.left_to_bloom": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/left_to_bloom"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.left_to_bloom"
+	},
+	"disc.minecraft.calm1": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/calm1"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.calm1"
+	},
+	"disc.the_deep_void.dark-fantasy-studio-pitch-black-_royalty-free-epic-horror-dark-ambient-music_-_1_": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "the_deep_void:dark-fantasy-studio-pitch-black-_royalty-free-epic-horror-dark-ambient-music_-_1_"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.the_deep_void.dark-fantasy-studio-pitch-black-_royalty-free-epic-horror-dark-ambient-music_-_1_"
+	},
+	"disc.minecraft.echo_in_the_wind": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/echo_in_the_wind"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.echo_in_the_wind"
+	},
+	"disc.minecraft.credits": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/end/credits"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.credits"
+	},
+	"disc.minecraft.hal3": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/hal3"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.hal3"
+	},
+	"disc.minecraft.hal4": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/hal4"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.hal4"
+	},
+	"disc.minecraft.hal1": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/hal1"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.hal1"
+	},
+	"disc.stellarity.threshold": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/threshold"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.threshold"
+	},
+	"disc.minecraft.hal2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/hal2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.hal2"
 	}
 }

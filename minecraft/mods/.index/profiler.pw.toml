@@ -1,0 +1,16 @@
+filename = 'Profiler-Forge-1.20.1-1.0.jar'
+name = 'Profiler'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e9800b7232145a48435ccd4a953f8f637ae248492198d75e42f9a4cc9c3ac6c774a94680f49d0594950072df410432ed37a10594bbf15e9a987305a650db89f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HUQZe9eQ/versions/ryaB2Mpc/Profiler-Forge-1.20.1-1.0.jar'
+
+[update.modrinth]
+mod-id = 'HUQZe9eQ'
+version = 'ryaB2Mpc'
