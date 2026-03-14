@@ -537,7 +537,7 @@
 	#Whether to keep items in the claw slots on death otherwise they will drop on death.
 	keepClawItems = true
 	#Whether dragon altars are craftable or not. When disabled you can only use the command or creative mode to become a dragon.
-	altarCraftable = true
+	altarCraftable = false
 	#How long of a cooldown in seconds the altar has after each use.
 	#Range: 0 ~ 36000
 	altarUsageCooldown = 8400
@@ -613,20 +613,20 @@
 	weakDragonHeartChance = 0.01
 	#The chance for dragon heart shards to drop from any mobs with max health between 14-20
 	#Range: 0.0 ~ 1.0
-	dragonHeartShardChance = 0.2
+	dragonHeartShardChance = 0.5
 
 	[drops.ore]
 		#The tag that contains all ores that can drop dust/bones when harvested. Will not drop if the ore drops another of the items in this tag. Format: modid:id
 		oresTag = "forge:ores"
 		#The odds of a bone dropping when a dragon harvests an ore.
 		#Range: 0.0 ~ 1.0
-		dragonOreBoneChance = 0.001
+		dragonOreBoneChance = 0.01
 		#The odds of a bone dropping when a human harvests an ore.
 		#Range: 0.0 ~ 1.0
 		humanOreBoneChance = 0.0
 		#The odds of dust dropping when a dragon harvests an ore.
 		#Range: 0.0 ~ 1.0
-		dragonOreDustChance = 0.02
+		dragonOreDustChance = 0.10
 		#The odds of dust dropping when a human harvests an ore.
 		#Range: 0.0 ~ 1.0
 		humanOreDustChance = 0.00
@@ -712,7 +712,7 @@
 	bonusHarvestLevel = 1
 	#The harvest level to apply when dragons breaks a block, regardless of dragon/tool type.
 	#Range: 0 ~ 100
-	baseHarvestLevel = 0
+	baseHarvestLevel = 1
 	#Whether dragon claws function as tools.
 	clawsAreTools = true
 	#Step height for a adult dragon. Default is 2 block.
@@ -1097,10 +1097,10 @@
 		reachBonus = 0.5
 		#The movement speed multiplier for adult dragons. Default is 1.0.
 		#Range: 0.0 ~ 1000000.0
-		moveSpeedAdult = 1.0
+		moveSpeedAdult = 1.3
 		#The movement speed multiplier for young dragons. Default is 1.0.
 		#Range: 0.0 ~ 1000000.0
-		moveSpeedYoung = 1.0
+		moveSpeedYoung = 1.1
 		#The movement speed multiplier for newborn dragons. Default is 1.0.
 		#Range: 0.0 ~ 1000000.0
 		moveSpeedNewborn = 1.2
@@ -1118,10 +1118,10 @@
 		largeStepHeightScalar = 1.0
 		#The bonus reach given per 60 size once the dragon is above the default growth size of 60 if large scaling is enabled.
 		#Range: 0.0 ~ 100.0
-		largeReachScalar = 0.5
+		largeReachScalar = 1.0
 		#The bonus damage when the dragon is at maximum growth size if large scaling is enabled.
 		#Range: 0.0 ~ 100.0
-		largeDamageBonus = 6.0
+		largeDamageBonus = 10.0
 		#The bonus movement speed multiplier per 60 size when the dragon is at maximum growth size if large scaling is enabled.
 		#Range: 0.0 ~ 100.0
 		largeMovementSpeedScalar = 0.5
@@ -1135,7 +1135,7 @@
 		crushingSize = 120.0
 		#The amount damage dealt per dragon size when crushing entities.
 		#Range: 0.0 ~ 20.0
-		crushingDamageScalar = 0.05
+		crushingDamageScalar = 0.1
 		#Allow a dragon to crush entities beneath it after being above a certain size. Crouching prevents crushing from occurring.
 		allowCrushing = true
 		#The size threshold for a dragon to start instantly destroying blocks. Crouching prevents destruction from occurring.

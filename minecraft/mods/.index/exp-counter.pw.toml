@@ -1,0 +1,16 @@
+filename = 'expcounter-1.20.1-forge-2.5.jar'
+name = 'EXP Counter'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2b27f51e7b16fcee61171351165e72dfecf4782a579f24d5ed665c4e02073077c0c0616066724fffe42381dc56ec8fcedee7a95cd90c01522700759e47dd45a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lPSTdJm7/versions/15qdKfNA/expcounter-1.20.1-forge-2.5.jar'
+
+[update.modrinth]
+mod-id = 'lPSTdJm7'
+version = '15qdKfNA'

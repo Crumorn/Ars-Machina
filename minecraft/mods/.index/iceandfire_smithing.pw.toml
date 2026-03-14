@@ -1,0 +1,16 @@
+filename = 'iceandfire_smithing-1.20.1.jar'
+name = 'Ice And Fire Smithing'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aeee814bc5cf049a467953b1463e4794cb42f8c083a4ba7ec83ce3caf49aa3ccf83733d566bb815b9c188b219a8f88f686c7a42a45159b2605ed8e2a7d9efbae'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xGg3Zcsk/versions/TnXzesNd/iceandfire_smithing-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'xGg3Zcsk'
+version = 'TnXzesNd'
