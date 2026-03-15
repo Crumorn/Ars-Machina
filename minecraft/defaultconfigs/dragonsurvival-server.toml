@@ -42,10 +42,10 @@
 	baseBreathRange = 4
 	#The multiplier that is used to increase the passive skill costs per level
 	#Range: 0.0 ~ 100.0
-	passiveScalingCost = 6.0
+	passiveScalingCost = 10.0
 	#The initial exp cost for leveling passive skills.
 	#Range: 0 ~ 100
-	initialPassiveCost = 4
+	initialPassiveCost = 10
 	#Disable the exp requirements for leveling up active skills
 	noEXPRequirements = false
 	#Whether sea dragon abilities should be enabled
@@ -88,13 +88,13 @@
 					chargedEffectDamageMultiplier = 1.0
 					#The max distance in blocks the storm breath and charged effect is able to chain to mobs
 					#Range: 0 ~ 100
-					chargedChainRange = 4
+					chargedChainRange = 6
 					#How many times the charged effect is able to chain.
 					#Range: -1 ~ 100
-					chargedEffectMaxChain = 5
+					chargedEffectMaxChain = 10
 					#How many mobs the charged effect is able to chain to at once
 					#Range: 0 ~ 100
-					chargedEffectChainCount = 2
+					chargedEffectChainCount = 3
 					#How many mobs stormbreath is able to chain to at once
 					#Range: 0 ~ 100
 					stormBreathChainCount = 2
@@ -321,7 +321,7 @@
 					fireBreathSpreadsFire = true
 					#How often in seconds, mana is consumed while using fire breath
 					#Range: 0.5 ~ 100.0
-					fireBreathManaTicks = 2.0
+					fireBreathManaTicks = 3.0
 					#The mana cost of sustaining the firebreath ability
 					#Range: 0 ~ 100
 					fireBreathOvertimeMana = 1
@@ -340,13 +340,13 @@
 					lavaVisionManaCost = 1
 					#The cast time in seconds of the lava vision ability
 					#Range: 0.05 ~ 10000.0
-					lavaVisionCasttime = 1.0
+					lavaVisionCasttime = 4.0
 					#The cooldown in seconds of the lava vision ability
 					#Range: 0.05 ~ 10000.0
 					lavaVisionCooldown = 30.0
 					#The duration in seconds of the lava vision effect given when the ability is used
 					#Range: 1.0 ~ 10000.0
-					lavaVisionDuration = 600.0
+					lavaVisionDuration = 300.0
 					#Whether the lava vision ability should be enabled
 					lavaVision = true
 
@@ -359,10 +359,10 @@
 					fireballDamage = 5.0
 					#The cast time in seconds of the fireball ability
 					#Range: 0.05 ~ 10000.0
-					fireballCasttime = 0.5
+					fireballCasttime = 0.25
 					#The cooldown in seconds of the fireball ability
 					#Range: 0.05 ~ 10000.0
-					fireballCooldown = 5.0
+					fireballCooldown = 2.0
 					#Whether the fireball ability should be enabled
 					fireball = true
 
@@ -610,7 +610,7 @@
 	elderDragonHeartChance = 1.0
 	#The chance for weak dragon heart to drop from any mobs with max health between 20-50
 	#Range: 0.0 ~ 1.0
-	weakDragonHeartChance = 0.01
+	weakDragonHeartChance = 0.1
 	#The chance for dragon heart shards to drop from any mobs with max health between 14-20
 	#Range: 0.0 ~ 1.0
 	dragonHeartShardChance = 0.5
@@ -635,11 +635,11 @@
 	#If enabled animals will try run away from dragons
 	dragons_are_scary = true
 	#List of slots to handle blacklistedItems option
-	blacklistedSlots = [0, 1, 2, 3, 4, 5, 6, 7, 8, 40, 45, 38]
+	blacklistedSlots = []
 	#List of items that are disallowed to be used by dragons. Format: item/modid:<regular_expression>. Example: minecraft:.*?_wool
-	blacklistedItemsRegex = ["spartanweaponry:boomerang_.*", "spartanshields:shield_.*", "spartanweaponry:heavy_crossbow_.*", "spartanweaponry:longbow_.*"]
+	blacklistedItemsRegex = []
 	#List of items that are disallowed to be used by dragons. Format: item/modid:id
-	blacklistedItems = ["minecraft:bow", "minecraft:crossbow", "minecraft:shield", "minecraft:trident", "quark:flamerang", "quark:pickarang", "mowziesmobs:wrought_axe", "nethers_exoticism:rambutan_shield", "aquaculture:neptunium_bow", "endermanoverhaul:corrupted_shield", "upgradednetherite:echo_upgraded_netherite_shield", "upgradednetherite:corrupt_upgraded_netherite_shield", "upgradednetherite:feather_upgraded_netherite_shield", "upgradednetherite:phantom_upgraded_netherite_shield", "upgradednetherite:poison_upgraded_netherite_shield", "upgradednetherite:wither_upgraded_netherite_shield", "upgradednetherite:water_upgraded_netherite_shield", "upgradednetherite:ender_upgraded_netherite_shield", "magistuarmory:bronze_ellipticalshield", "magistuarmory:wood_roundshield", "magistuarmory:stone_roundshield", "magistuarmory:iron_roundshield", "magistuarmory:gold_roundshield", "magistuarmory:diamond_roundshield", "magistuarmory:netherite_roundshield", "magistuarmory:copper_roundshield", "magistuarmory:steel_roundshield", "magistuarmory:silver_roundshield", "magistuarmory:tin_roundshield", "magistuarmory:bronze_roundshield", "magistuarmory:wood_kiteshield", "magistuarmory:stone_kiteshield", "magistuarmory:iron_kiteshield", "magistuarmory:gold_kiteshield", "magistuarmory:diamond_kiteshield", "magistuarmory:netherite_kiteshield", "magistuarmory:steel_kiteshield", "magistuarmory:copper_kiteshield", "magistuarmory:silver_kiteshield", "magistuarmory:tin_kiteshield", "magistuarmory:bronze_kiteshield", "unusualend:blob_shield", "upgradednetherite:netherite_shield", "upgradednetherite:gold_upgraded_netherite_shield", "upgradednetherite:fire_upgraded_netherite_shield", "magistuarmory:stone_ellipticalshield", "magistuarmory:iron_ellipticalshield", "magistuarmory:diamond_ellipticalshield", "magistuarmory:gold_ellipticalshield", "infernalexp:glowsilk_bow", "magistuarmory:tin_ellipticalshield", "upgradednetherite:gold_upgraded_netherite_bow", "upgradednetherite:fire_upgraded_netherite_bow", "upgradednetherite:ender_upgraded_netherite_bow", "magistuarmory:silver_ellipticalshield", "magistuarmory:steel_ellipticalshield", "magistuarmory:copper_ellipticalshield", "magistuarmory:netherite_ellipticalshield", "upgradednetherite:netherite_crossbow", "upgradednetherite:gold_upgraded_netherite_crossbow", "upgradednetherite:fire_upgraded_netherite_crossbow", "upgradednetherite:ender_upgraded_netherite_crossbow", "upgradednetherite:water_upgraded_netherite_crossbow", "upgradednetherite:wither_upgraded_netherite_crossbow", "upgradednetherite:poison_upgraded_netherite_crossbow", "upgradednetherite:phantom_upgraded_netherite_crossbow", "upgradednetherite:feather_upgraded_netherite_crossbow", "upgradednetherite:corrupt_upgraded_netherite_crossbow", "upgradednetherite:echo_upgraded_netherite_crossbow", "magistuarmory:wood_heatershield", "magistuarmory:stone_heatershield", "magistuarmory:iron_heatershield", "magistuarmory:gold_heatershield", "magistuarmory:diamond_heatershield", "magistuarmory:netherite_heatershield", "magistuarmory:copper_heatershield", "magistuarmory:steel_heatershield", "magistuarmory:silver_heatershield", "magistuarmory:tin_heatershield", "magistuarmory:bronze_heatershield", "magistuarmory:wood_ellipticalshield", "magistuarmory:silver_target", "magistuarmory:steel_target", "magistuarmory:copper_target", "magistuarmory:netherite_target", "magistuarmory:diamond_target", "magistuarmory:gold_target", "magistuarmory:iron_target", "magistuarmory:stone_target", "aquaculture:neptunium_bow", "magistuarmory:gold_pavese", "magistuarmory:iron_pavese", "magistuarmory:wood_pavese", "magistuarmory:tin_tartsche", "magistuarmory:silver_tartsche", "magistuarmory:steel_tartsche", "magistuarmory:copper_tartsche", "magistuarmory:diamond_tartsche", "magistuarmory:iron_tartsche", "magistuarmory:stone_tartsche", "magistuarmory:wood_tartsche", "magistuarmory:bronze_rondache", "magistuarmory:tin_rondache", "magistuarmory:netherite_rondache", "magistuarmory:diamond_rondache", "magistuarmory:gold_rondache", "magistuarmory:iron_rondache", "magistuarmory:wood_rondache", "magistuarmory:tin_buckler", "magistuarmory:steel_buckler", "magistuarmory:copper_buckler", "magistuarmory:netherite_buckler", "magistuarmory:diamond_buckler", "magistuarmory:gold_buckler", "magistuarmory:iron_buckler", "magistuarmory:stone_buckler", "magistuarmory:tin_target", "magistuarmory:diamond_pavese", "magistuarmory:netherite_pavese", "magistuarmory:copper_pavese", "magistuarmory:steel_pavese", "magistuarmory:tin_pavese", "endermanoverhaul:corrupted_shield", "upgradednetherite:wither_upgraded_netherite_bow", "upgradednetherite:water_upgraded_netherite_bow", "upgradednetherite:poison_upgraded_netherite_bow", "upgradednetherite:phantom_upgraded_netherite_bow", "upgradednetherite:feather_upgraded_netherite_bow", "upgradednetherite:corrupt_upgraded_netherite_bow", "upgradednetherite:echo_upgraded_netherite_bow", "cataclysm:ignitium_elytra_chestplate", "revised_phantoms:phantom_wings_chestplate", "deeperdarker:soul_elytra", "born_in_chaos_v1:staffof_magic_arrows", "magistuarmory:heavy_crossbow"]
+	blacklistedItems = []
 	#Should dragons be limited by which entities they can ride
 	limitedRiding = true
 	#List of rideable entities. Format: modid:id
@@ -686,7 +686,7 @@
 		rainDamage = 1.0
 		#The amount of damage taken per water damage tick (once every 10 ticks). Set to 0.0 to disable water damage.
 		#Range: 0.0 ~ 100.0
-		waterDamage = 1.0
+		waterDamage = 0.5
 
 [bonuses]
 	#The speed effect level for dragon block-specific speedups. Set to 0 to disable.
@@ -771,7 +771,7 @@
 		caveSpeedupBlocks = ["minecraft:base_stone_nether", "minecraft:base_stone_overworld", "minecraft:stone_bricks", "minecraft:beacon_base_blocks", "forge:cobblestone", "forge:sandstone", "forge:stone", "forge:ores", "quark:deepslate", "quark:deepslate_bricks", "quark:cobbled_deepslate", "minecraft:lava", "minecraft:fire", "minecraft:soul_fire"]
 		#The maximum number of ticks a cave dragon can swim in lava. Set to 0 to allow unlimited air while under lava.
 		#Range: 0 ~ 100000
-		lavaSwimTicks = 3600
+		lavaSwimTicks = 0
 		#Set to false to disable cave dragon fast lava swimming.
 		lavaSwimming = true
 		#Whether cave dragons are immune to fire damage types.
