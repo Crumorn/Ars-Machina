@@ -18,5 +18,5 @@
   "SafeTeleportCheckRadius": 20,
   "TeleportCatalystUses": 5,
   "shouldTeleportReturnToSetWorld": false,
-  "returnSetWorld": "minecraft:overworld"
+  "returnSetWorld": "minecraft:the_nether"
 }

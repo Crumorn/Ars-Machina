@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.19",
-  "config_datetime": "2026-03-14_22-19-43",
+  "config_datetime": "2026-03-14_22-18-33",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": false,
@@ -104,27 +104,6 @@
       ]
     }
   ],
-  "structures": [
-    {
-      "name": "create_pillagers_arise:cathedral_create",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box",
-      "override_global_flatness_check": false,
-      "enable_flatness_check": true,
-      "flatness_check_allow_non_solid_blocks": false,
-      "override_global_biome_check": false,
-      "enable_biome_check": true,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:river",
-        "#minecraft:is_ocean",
-        "#c:ocean"
-      ]
-    }
-  ],
+  "structures": [],
   "structure_sets": []
 }
