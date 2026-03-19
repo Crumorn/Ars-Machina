@@ -16,7 +16,7 @@
     "minecraft:tall_grass"
   ],
   "SafeTeleportCheckRadius": 20,
-  "TeleportCatalystUses": 5,
-  "shouldTeleportReturnToSetWorld": false,
+  "TeleportCatalystUses": 1,
+  "shouldTeleportReturnToSetWorld": true,
   "returnSetWorld": "minecraft:the_nether"
 }

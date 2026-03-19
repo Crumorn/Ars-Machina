@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Thalmyr",
+      "uniqueId": "e7a1e5ad-a7a3-452a-828b-c412a22e7ec6"
+    },
+    "time": 1773731822239,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kwXLFhPbgq"
+    }
+  }
+]
