@@ -33,11 +33,11 @@
 		#Range: 1 ~ 10000
 		"Glacier Spawn Weight" = 2
 		#True if mausoleums are allowed to generate
-		"Generate Mausoleums" = false
+		"Generate Mausoleums" = true
 		#Whether to generate graveyards or not
 		"Generate Graveyards" = true
 		#True if gorgon temples are allowed to spawn
-		"Generate Gorgon Temple" = false
+		"Generate Gorgon Temple" = true
 
 [Dragons]
 

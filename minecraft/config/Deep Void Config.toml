@@ -149,7 +149,7 @@
 	PrimordialCrawlerSpit = 6.0
 	#Damage
 	PrimordialCrawlerDigPlayerClose = 17.0
-	#Damage (repeated five times)
+	#Damage (on contact)
 	PrimordialCrawlerDash = 18.0
 	#Damage in an AOE
 	PrimordialCrawlerGooBlock = 10.0
@@ -232,6 +232,13 @@
 	PerilDamageMultiplier = 4.0
 	#Damage (velocity increases that number)
 	Peril = 2.8
+	#The attack damage bonus
+	BloodstoneArmorBonus = 2.0
+	#Void bow damage (ignores armor and i-frames)
+	VoidBow = 8.0
+	ScythesReach = 0.5
+	#The attack damage bonus
+	PlagueArmorBonus = 2.0
 
 ["Hive's Watcher"]
 	#Damage each tick

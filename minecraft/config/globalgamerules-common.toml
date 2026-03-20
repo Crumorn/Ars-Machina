@@ -124,7 +124,7 @@
 			doSeasonCycle = true
 
 		[gamerules.modded.player]
-			startingHearts = 10
+			startingHearts = 12
 			keepArrows = true
 			giveWikiBook = true
 			heartLossOnDeath = true
