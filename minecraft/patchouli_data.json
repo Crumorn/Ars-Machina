@@ -71,7 +71,19 @@
         "hexcasting:patterns/great_spells/gates",
         "hexcasting:items/phials",
         "hexcasting:items/jeweler_hammer",
-        "hexcasting:items/relay"
+        "hexcasting:items/relay",
+        "hexcasting:items/hexcasting",
+        "hexcasting:items/staff",
+        "hexcasting:items/amethyst",
+        "hexcasting:items/thought_knot",
+        "hexcasting:linkers",
+        "hexcasting:items/focus",
+        "hexcasting:items/spellbook",
+        "hexcasting:items/scroll",
+        "hexcasting:items/slate",
+        "hexcasting:items/ancient_cyphers",
+        "hexcasting:items/pigments",
+        "hexcasting:items/decoration"
       ],
       "bookmarks": [
         {
@@ -79,6 +91,19 @@
           "page": 2
         }
       ],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:getting_started/spell_casting",
+        "ars_nouveau:getting_started/spell_mana",
+        "ars_nouveau:getting_started/obtaining_gems",
+        "ars_nouveau:equipment/dowsing_rod",
+        "ars_nouveau:getting_started/source",
+        "ars_nouveau:getting_started/new_glyphs",
+        "ars_nouveau:machines/scribes_block"
+      ],
+      "bookmarks": [],
       "completedManualQuests": []
     }
   }
