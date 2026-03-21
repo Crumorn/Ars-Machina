@@ -626,10 +626,10 @@
 		humanOreBoneChance = 0.0
 		#The odds of dust dropping when a dragon harvests an ore.
 		#Range: 0.0 ~ 1.0
-		dragonOreDustChance = 0.10
+		dragonOreDustChance = 0.1
 		#The odds of dust dropping when a human harvests an ore.
 		#Range: 0.0 ~ 1.0
-		humanOreDustChance = 0.00
+		humanOreDustChance = 0.0
 
 [penalties]
 	#If enabled animals will try run away from dragons
@@ -1082,15 +1082,12 @@
 		maxGrowthModifier = 1.0
 		#A multiplier to change the growth rate from adult to a full sized adult. At 1.0 it takes about 3 days to become a dragon of maximum adult size.
 		#Range: 0.0 ~ 1000.0
-		#Thalmyr Note Here: This should be about 864 mincraft days, or just about 12 real life days. 
 		adultGrowthModifier = 0.25
 		#A multiplier to change the growth rate from young to adult. At 1.0 it takes about 1 day to turn a young dragon into a adult dragon.
 		#Range: 0.0 ~ 1000.0
-		#Thalmyr Note Here: This should be about 760 mincraft days, or just about 240 hours (10 days real life time). This should make it hard to just simply AFK into adult hood.
 		youngGrowthModifier = 0.1
 		#A multiplier to change the growth rate from newborn to young. At 1.0 it takes about 3 hours to turn a newborn dragon into a young dragon.
 		#Range: 0.0 ~ 1000.0
-		#Thalmyr Note Here: This should be about 30 mincraft days, or just about 10 hours 
 		newbornGrowthModifier = 0.3
 		#The bonus that is given to dragons at 60 size. The bonus gradually scales up to the maximum size. Human players have 1.0x reach and a size 60 dragon will have 1.5x distance with default values.
 		#Range: 0.0 ~ 1000000.0

@@ -235,12 +235,12 @@
 	#Should Pillagers attack Monsters
 	#	(takes effect after restart)
 	#	default: false
-	PillagerAttackMonsters = false
+	PillagerAttackMonsters = true
 	#
 	#Should Monsters attack Pillagers
 	#	(takes effect after restart)
 	#	default: false
-	MonstersAttackPillagers = false
+	MonstersAttackPillagers = true
 	#
 	#Should Pillagers attack all Living
 	#	(takes effect after restart)
@@ -296,13 +296,13 @@
 	#Should modded Pillager Patrols spawn in the world?
 	#	(takes effect after restart)
 	#	default: false
-	ShouldPillagerPatrolsSpawn = true
+	ShouldPillagerPatrolsSpawn = false
 	#
 	#Chance that a modded Pillager Patrol can spawn. (higher values = higher chance to spawn)
 	#	(takes effect after restart)
 	#	default: 25.0
 	#Range: 0.0 ~ 100.0
-	PillagerPatrolsSpawnChance = 25.0
+	PillagerPatrolsSpawnChance = 15.0
 	#
 	#The interval in minutes a Pillager Patrol can spawn.
 	#	(takes effect after restart)
@@ -335,13 +335,13 @@
 	#	(takes effect after restart)
 	#	default: 5
 	#Range: 0 ~ 1453
-	MaxPlayersInFaction = 10
+	MaxPlayersInFaction = 5
 	#
 	#The amount of recruits allowed in a faction. Set 0 for infinite.
 	#	(takes effect after restart)
 	#	default: 500
 	#Range: 0 ~ 1453
-	MaxNPCsInFaction = 1000
+	MaxNPCsInFaction = 500
 	#
 	#Should editing the faction be allowed by their leaders. (Editing Faction Colors, Name ,...)
 	#	(takes effect after restart)
@@ -399,7 +399,7 @@
 		#	(takes effect after restart)
 		#	default: 1
 		#Range: 1 ~ 16
-		AsyncPathfindingThreads = 1
+		AsyncPathfindingThreads = 4
 		#Use asynchronous target finding run on multithread executor.
 		#Improves TPS on huge numbers of recruits (and somehow FPS) a lot,
 		#    but useless if machine has only one physical core available.
@@ -414,7 +414,7 @@
 		#	(takes effect after restart)
 		#	default: 1
 		#Range: 1 ~ 16
-		AsyncTargetFindingThreads = 1
+		AsyncTargetFindingThreads = 4
 
 #Claiming Config:
 [Claiming]

@@ -137,6 +137,10 @@
 			spawnHoleStructure = true
 			"decorative_blocks:disableThatch" = false
 
+		[gamerules.modded.mobs]
+			banEntityRange = 32
+			thisIsMyLandDebug = true
+
 #Configs related to difficulty changes
 [difficulty]
 	#If the difficulty should be set on world load

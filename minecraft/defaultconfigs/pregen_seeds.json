@@ -1,0 +1,102 @@
+{
+	"level_seeds": [
+		{
+			"dim": "witherstormmod:bowels",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "distant_worlds:garhenna",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "the_deep_void:deep_void",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "the_afterdark:afterdark",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "pocket_dimension:pocket_dimension",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "the_deep_void:the_pit",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 4829008989959613304
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "witherstormmod:bowels",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "distant_worlds:garhenna",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "the_deep_void:deep_void",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "the_afterdark:afterdark",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "pocket_dimension:pocket_dimension",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "the_deep_void:the_pit",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 4829008989959613304
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 4829008989959613304
+		}
+	]
+}
