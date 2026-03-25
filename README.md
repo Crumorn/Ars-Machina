@@ -5,4 +5,5 @@ Ars Machina is a modpack for Minecraft 1.20.1 Forge. It is centered around the t
 - Ars Nouveau
 
 
-# This Modpoack is for private use, all mod devs retain their respecitve rights nad liscences. 
+# Liscence
+This Modpoack is for private use, all mod devs retain their respecitve rights and liscences. 
