@@ -5,6 +5,19 @@
       "name": "Thalmyr",
       "uniqueId": "e7a1e5ad-a7a3-452a-828b-c412a22e7ec6"
     },
+    "time": 1774281615717,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CCHBukWG8Q"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thalmyr",
+      "uniqueId": "e7a1e5ad-a7a3-452a-828b-c412a22e7ec6"
+    },
     "time": 1774026755436,
     "type": "Profiler",
     "data": {

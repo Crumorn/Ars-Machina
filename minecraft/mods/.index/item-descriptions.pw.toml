@@ -1,0 +1,16 @@
+filename = 'item-descriptions-2.5.4+1.20.1-forge.jar'
+name = 'Item Descriptions'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1802da61db5c410d4cb046359b9d89cf0d6ad767'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7122173
+project-id = 1101501

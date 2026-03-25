@@ -93,6 +93,19 @@
       ],
       "completedManualQuests": []
     },
+    "bloodmagic:guide": {
+      "viewedEntries": [
+        "bloodmagic:altar/blood_altar",
+        "bloodmagic:altar/redstone_automation",
+        "bloodmagic:utility/life_essence_bucket",
+        "bloodmagic:altar/soul_network",
+        "bloodmagic:altar/slates",
+        "bloodmagic:demon_will/will_manipulation/crystallized_will",
+        "bloodmagic:utility/hydration"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "ars_nouveau:worn_notebook": {
       "viewedEntries": [
         "ars_nouveau:getting_started/spell_casting",

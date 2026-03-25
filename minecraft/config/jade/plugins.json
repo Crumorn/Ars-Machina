@@ -54,6 +54,10 @@
   "ars_nouveau": {
     "mob_jar": true
   },
+  "item-descriptions": {
+    "block_descriptions": true,
+    "entity_descriptions": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,

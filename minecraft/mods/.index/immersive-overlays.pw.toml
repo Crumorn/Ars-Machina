@@ -1,0 +1,16 @@
+filename = 'immersiveoverlays-1.5.3+1.20.1-forge.jar'
+name = 'Immersive Overlays'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '668eeabf39f5b7a10811886822557aad6ece6d7c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7782149
+project-id = 1245453

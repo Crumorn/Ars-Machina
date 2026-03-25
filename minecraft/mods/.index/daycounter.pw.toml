@@ -1,5 +1,5 @@
-filename = 'daycounter-1.jar'
-name = 'Day Counter (Original)'
+filename = 'daycounter-1.1.1.jar'
+name = 'Day Counter (Original) for 1.16 - 1.21.10!'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
@@ -27,14 +27,14 @@ x-prismlauncher-mc-versions = [
     '1.20.5',
     '1.20.6'
 ]
-x-prismlauncher-release-type = 'beta'
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a7bef616c74dad735ac4564b94e43c286e89d4f4b8c56ce3ef17ff78e2ad11036c3df5fcb64f64c417dc33cdd08c7f893c66cf16918cb0e1924f12293c9bf07f'
+hash = '7e06a955092a6a32e10c70509dcbcea7d065ac947b43f1f08d333255a4a2992cfc3a3bc8c8e34b12652da6b7e63e8ab1afe48975da4568cfbf244b8bb04dc960'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/RWVRgj8Z/versions/ZGQ2w8IM/daycounter-1.jar'
+url = 'https://cdn.modrinth.com/data/RWVRgj8Z/versions/7z0wVjPz/daycounter-1.1.1.jar'
 
 [update.modrinth]
 mod-id = 'RWVRgj8Z'
-version = 'ZGQ2w8IM'
+version = '7z0wVjPz'
