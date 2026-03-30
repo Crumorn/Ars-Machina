@@ -20,7 +20,7 @@
 	enabled = true
 
 [cracked_blocks]
-	cracking_drops_brick = false
+	cracking_drops_brick = true
 	#Range: 0.0 ~ 1.0
 	interest_for_face = 0.6
 	#Range: 0.0 ~ 1.0
@@ -28,7 +28,7 @@
 	#Range: 0.0 ~ 1.0
 	immune_chance = 0.4
 	needs_air = false
-	enabled = true
+	enabled = false
 
 [icicle]
 	react_to_vibrations = true
@@ -47,7 +47,7 @@
 	flammable_cobweb = true
 
 [item_interaction]
-	pickaxe_cracking = true
+	pickaxe_cracking = false
 	pickaxe_cracking_shift = false
 	brick_breaking = true
 	azalea_shearing = true
