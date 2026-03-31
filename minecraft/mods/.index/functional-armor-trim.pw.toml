@@ -1,0 +1,16 @@
+filename = 'functionalarmortrim-1.20.1-6.jar'
+name = 'Functional Armor Trim'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7a3addd8dfb8c2e961e2a9cd52241c9b756a97f2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7564327
+project-id = 838212

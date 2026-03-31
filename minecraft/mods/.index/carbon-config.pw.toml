@@ -1,16 +1,16 @@
-filename = 'CarbonConfig-1.20-1.2.8.2.jar'
-name = 'Carbon Config'
+filename = 'CarbonConfig-1.20-2.0.0.jar'
+name = 'Carbon Config Library'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0820589798f057bded4454b07d84b3bed1740fcc'
+hash = 'a048a0ae4c7d6886a18710ec3b8bd92429508534'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7578453
+file-id = 7842855
 project-id = 898104

@@ -1,4 +1,4 @@
-filename = 'hex_ars_link-1.20.1-0.9.3.jar'
+filename = 'hex_ars_link-1.20.1-0.9.4.1.jar'
 name = 'Hex-Ars Linker'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '1ad7a30af70712416d181f92bed3a7b21890a6c927c17564e2795e734a40f4a3913d41d9680a81298ebf7a305417816071dab229f60124f409c99af274791444'
+hash = '7c15e230defe6172b72d8a3a0b9b739a6de8f21ec02609fd3bf8972213c7560aa254daf26b8fe7713c0985038cd3043784d067f6250cfb45ef24ddd08c5bf313'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Yntfg3XG/versions/4szgc9NP/hex_ars_link-1.20.1-0.9.3.jar'
+url = 'https://cdn.modrinth.com/data/Yntfg3XG/versions/W3A1gCw0/hex_ars_link-1.20.1-0.9.4.1.jar'
 
 [update.modrinth]
 mod-id = 'Yntfg3XG'
-version = '4szgc9NP'
+version = 'W3A1gCw0'

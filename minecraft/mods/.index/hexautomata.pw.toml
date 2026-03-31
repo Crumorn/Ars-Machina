@@ -1,4 +1,4 @@
-filename = 'HexAutomata-forge-1.20.1-0.1.1.jar'
+filename = 'HexAutomata-forge-1.20.1-0.2.3.jar'
 name = 'HexAutomata'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '5dfd38bfc74bf88b865d8a16fc969e16577f4c0a'
+hash = '04530cd3b39f41af21ff22871be8286d2be848bc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7784866
+file-id = 7833979
 project-id = 1481923

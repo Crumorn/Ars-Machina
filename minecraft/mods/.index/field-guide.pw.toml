@@ -1,4 +1,4 @@
-filename = 'fieldguide-forge-1.20.1-1.4.1.jar'
+filename = 'fieldguide-forge-1.20.1-1.6.0.jar'
 name = 'Field Guide'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '217ecc91cd0774dd8af7ac685815b863d05fd6b4'
+hash = 'cbfaadc9eb284b4f82e090558d774fe46b084d05'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7757432
+file-id = 7844128
 project-id = 1470590
