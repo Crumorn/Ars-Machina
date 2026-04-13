@@ -1,0 +1,16 @@
+filename = 'blackaures_paintings-1.2-forge-1.20.1.jar'
+name = 'Paintings with Dragons'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd720c4f05debca761b9edfe1381b5dacc19482e1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6513681
+project-id = 666907

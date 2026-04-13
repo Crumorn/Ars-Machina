@@ -1,0 +1,16 @@
+filename = 'simplytents-2.0.9.jar'
+name = 'Simply Tents'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3d87dcf4c516f218d964da610bbb3661e34f3342fa01818362275c1b9aa6e729ca6026a116d44894ffd806e7633798f2e5c6837f2bc02a1b51bc7f796bdd8223'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yWY7WWmg/versions/oQBbrOvS/simplytents-2.0.9.jar'
+
+[update.modrinth]
+mod-id = 'yWY7WWmg'
+version = 'oQBbrOvS'

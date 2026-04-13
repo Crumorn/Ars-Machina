@@ -1,0 +1,16 @@
+filename = 'iceandfire_addon-1.1.0-forge-1.20.1.jar'
+name = 'Ice And Fire Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8ec0ab4270fd3d16c1007cc64665540dbcaba4f05fa8cd18c53b4443b393fbaa9eec440e92e2eb317427584a5eb277bcf039990e9d2166b645dd276b1b0229e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vf0JUkLp/versions/1mlu88Zr/iceandfire_addon-1.1.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Vf0JUkLp'
+version = '1mlu88Zr'

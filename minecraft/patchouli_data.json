@@ -114,7 +114,10 @@
         "ars_nouveau:equipment/dowsing_rod",
         "ars_nouveau:getting_started/source",
         "ars_nouveau:getting_started/new_glyphs",
-        "ars_nouveau:machines/scribes_block"
+        "ars_nouveau:machines/scribes_block",
+        "ars_nouveau:source/agronomic_sourcelink",
+        "ars_nouveau:source/relay",
+        "ars_nouveau:source/relay_splitter"
       ],
       "bookmarks": [],
       "completedManualQuests": []

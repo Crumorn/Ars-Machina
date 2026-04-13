@@ -1,0 +1,16 @@
+filename = 'additionaldragons-0.3.0_1.20.1.jar'
+name = 'Additional Dragons'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '087a7979eaf6f04a05380867cb5ced036b927c40'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6562726
+project-id = 982609

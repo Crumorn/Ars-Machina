@@ -52,19 +52,19 @@
 	#	(takes effect after restart)
 	#	default: 4
 	#Range: 0 ~ 1453
-	RecruitCost = 4
+	RecruitCost = 5
 	#
 	#The amount of currency required to hire a bowman.
 	#	(takes effect after restart)
 	#	default: 6
 	#Range: 0 ~ 1453
-	BowmanCost = 6
+	BowmanCost = 7
 	#
 	#The amount of currency required to hire a crossbowman.
 	#	(takes effect after restart)
 	#	default: 8
 	#Range: 0 ~ 1453
-	CrossbowmanCost = 8
+	CrossbowmanCost = 9
 	#
 	#The amount of currency required to hire a shieldman.
 	#	(takes effect after restart)
@@ -105,7 +105,7 @@
 	#The amount of currency recruits need to be payed?
 	#default: 1
 	#Range: 1 ~ 1453
-	RecruitsPaymentAmount = 1
+	RecruitsPaymentAmount = 2
 	#
 	#RecruitsNoPaymentAction
 	#	(takes effect after restart)
@@ -145,12 +145,12 @@
 	#False -> only one villager can become a recruit with one table.
 	#	(takes effect after restart)
 	#	default: true
-	RecruitTablesPOIReleasing = true
+	RecruitTablesPOIReleasing = false
 	#
 	#Does a Villager decide to become noble? Condition: 7 Villagers and no Noble Villager nearby
 	#	(takes effect after restart)
 	#	default: true
-	NobleVillagerSpawns = true
+	NobleVillagerSpawns = false
 	#
 	#Does the Noble Villager need Villagers in the area to spawn a Recruit?
 	#	(takes effect after restart)
@@ -171,7 +171,7 @@
 	#	(takes effect after restart)
 	#	default: 1
 	#Range: 1 ~ 1453
-	MaxSpawnRecruitsInVillage = 2
+	MaxSpawnRecruitsInVillage = 0
 
 #Recruits Equipment Config:
 [Equipments]

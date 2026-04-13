@@ -1,0 +1,16 @@
+filename = 'ender_dragon_drops-1.0.0.jar'
+name = 'Ender Dragon Drops by LiterallySeek'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c92c084819048d3f8009d7efa36fad4136db8a61'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5089330
+project-id = 972158
