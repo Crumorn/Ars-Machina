@@ -5,10 +5,10 @@ dayCountEnabled = true
 dayOffset = 1
 #Horizontal size of the Day Counter | default: 2.0
 #Range: 0.0 ~ 20000.0
-sizeX = 2.0
+sizeX = 0.75
 #Vertical size of the Day Counter | default: 2.0
 #Range: 0.0 ~ 20000.0
-sizeY = 2.0
+sizeY = 0.75
 #Horizontal position of the Day Counter | default: 2.0
 #Range: 0.0 ~ 20000.0
 locationX = 2.0

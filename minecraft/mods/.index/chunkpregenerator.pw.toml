@@ -1,16 +1,16 @@
-filename = 'Chunk-Pregenerator-1.20-4.4.5.1.jar'
-name = 'Chunk-Pregenerator'
+filename = 'Chunk-Pregenerator-1.20-4.4.5.2.jar'
+name = 'Chunk Pregenerator'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '6640c2d64f1a12e97394f21e735532012070bfd5'
+hash = '036d37714472c94a7e324e853a19613a20c37eb8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7417821
+file-id = 7884990
 project-id = 267193

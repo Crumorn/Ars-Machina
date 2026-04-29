@@ -1,16 +1,16 @@
-filename = 'siegeweapons-1.20.1-0.2.3.jar'
-name = 'Siege Weapons'
+filename = 'siegeweapons-1.20.1-0.2.5.jar'
+name = 'Siege Weapons Mod'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '4f2b4072b1eab83d891a5daec4f8d8edea6ed4fb8904ede70249008e961a9c1a1559ca6edfd6e1a14c147d0c775f53d7ef1f06037d7cf5182fdcdcb82cd6e346'
+hash = 'e2b782b39e5209d831ea5074348120ac0ebe31b94e583fcd97e26030d2fb2c234ac8a1ad2c313c7d0738b80a3908da4ad7c21ce3214fa3da941082e19fdc111d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/d4elsJgD/versions/wwmMsbDK/siegeweapons-1.20.1-0.2.3.jar'
+url = 'https://cdn.modrinth.com/data/d4elsJgD/versions/wtETPu9o/siegeweapons-1.20.1-0.2.5.jar'
 
 [update.modrinth]
 mod-id = 'd4elsJgD'
-version = 'wwmMsbDK'
+version = 'wtETPu9o'

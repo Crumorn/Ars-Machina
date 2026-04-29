@@ -1,0 +1,16 @@
+filename = 'DayCount-1.3.9-Forge-mc1.20.jar'
+name = 'Day Count - a day counter HUD (Forge/NeoForge/Fabric)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd74166e0c2fe309955341ea17d56006bd9fe28675935b867fee2c068863475146b91d9d8fbf4b18d1b0432721efcc889b91134fb6bed2fdd5d58c1d677b1f449'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kexckXV1/versions/loXysdkU/DayCount-1.3.9-Forge-mc1.20.jar'
+
+[update.modrinth]
+mod-id = 'kexckXV1'
+version = 'loXysdkU'

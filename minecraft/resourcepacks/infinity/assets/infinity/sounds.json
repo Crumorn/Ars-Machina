@@ -170,6 +170,15 @@
 		],
 		"subtitle": "infinity:subtitles.disc.minecraft.nether4"
 	},
+	"disc.stellarity.intro": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/intro"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.intro"
+	},
 	"disc.minecraft.nether3": {
 		"sounds": [
 			{
@@ -403,6 +412,15 @@
 			}
 		],
 		"subtitle": "infinity:subtitles.disc.minecraft.dragon_fish"
+	},
+	"disc.stellarity.to_the_beggining": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/to_the_beggining"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.to_the_beggining"
 	},
 	"disc.minecraft.piano3": {
 		"sounds": [
@@ -719,6 +737,24 @@
 		],
 		"subtitle": "infinity:subtitles.disc.ivory.challenger"
 	},
+	"disc.stellarity.eleven": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/eleven"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.eleven"
+	},
+	"disc.stellarity.voide": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/voide"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.voide"
+	},
 	"disc.mowziesmobs.ferrous_wroughtnaut": {
 		"sounds": [
 			{
@@ -727,6 +763,15 @@
 			}
 		],
 		"subtitle": "infinity:subtitles.disc.mowziesmobs.ferrous_wroughtnaut"
+	},
+	"disc.stellarity.threshold": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/threshold"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.threshold"
 	},
 	"disc.minecraft.an_ordinary_day": {
 		"sounds": [
@@ -754,15 +799,6 @@
 			}
 		],
 		"subtitle": "infinity:subtitles.disc.aether.aether5"
-	},
-	"disc.phantasm.music_disc_abruption": {
-		"sounds": [
-			{
-				"stream": true,
-				"name": "phantasm:music_disc_abruption"
-			}
-		],
-		"subtitle": "infinity:subtitles.disc.phantasm.music_disc_abruption"
 	},
 	"disc.minecraft.crescent_dunes": {
 		"sounds": [
@@ -818,6 +854,15 @@
 		],
 		"subtitle": "infinity:subtitles.disc.aether.aether3"
 	},
+	"disc.stellarity.excuse": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/excuse"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.excuse"
+	},
 	"disc.minecraft.aerie": {
 		"sounds": [
 			{
@@ -872,6 +917,15 @@
 		],
 		"subtitle": "infinity:subtitles.disc.mowziesmobs.frostmaw"
 	},
+	"disc.stellarity.ki": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/ki"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.ki"
+	},
 	"disc.witherstormmod.wither_storm_formidibomb_theme": {
 		"sounds": [
 			{
@@ -907,5 +961,14 @@
 			}
 		],
 		"subtitle": "infinity:subtitles.disc.mowziesmobs.umvuthi"
+	},
+	"disc.stellarity.end": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "stellarity:music/end"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.stellarity.end"
 	}
 }

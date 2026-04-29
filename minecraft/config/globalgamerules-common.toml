@@ -140,6 +140,7 @@
 		[gamerules.modded.mobs]
 			banEntityRange = 32
 			thisIsMyLandDebug = true
+			wandererPathfind = true
 
 #Configs related to difficulty changes
 [difficulty]

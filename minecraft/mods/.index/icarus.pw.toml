@@ -1,4 +1,4 @@
-filename = 'Icarus-Forge-2.13.1.jar'
+filename = 'Icarus-Forge-2.13.2.jar'
 name = 'Icarus'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e4e8084f4e21e80b1a7db8e930a6204d6bcdf8e9'
+hash = 'f211261762ee49289ba4e62134dc28e0d266dc05'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7269556
+file-id = 7898608
 project-id = 428151

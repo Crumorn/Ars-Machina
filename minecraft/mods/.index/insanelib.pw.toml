@@ -1,4 +1,4 @@
-filename = 'insanelib-1.23.4.3.jar'
+filename = 'insanelib-1.23.4.4.jar'
 name = 'InsaneLib'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '58bb3c0bc97e65fda5560b78c40dc4db4cb6c6c0'
+hash = '93edf3d0883e20f7b4143033a7a7e130d853442a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7635498
+file-id = 7882029
 project-id = 465109

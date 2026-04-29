@@ -1,4 +1,4 @@
-filename = 'hexFlow-forge-1.20.1-0.4.jar'
+filename = 'hexFlow-forge-1.20.1-0.5.1.1.jar'
 name = 'HexFlow'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '553940b0ceb7344df29c1390cd668a8c371683d57eda56dccedfbef200a189d4d5e5bcb6e1df629031079bf2d1b4bc98f9caabaf9b31a37954c27e89ceda43e3'
+hash = '5196105cddaf105425b9ab7697fce14bb339636382f2ce507de83387d519bfc105bd1fff5754ef4352ee775adc5f06b7a9353ff90726c5a07034607e93c5da58'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/MRC1BQpK/versions/GvdJQ3h7/hexFlow-forge-1.20.1-0.4.jar'
+url = 'https://cdn.modrinth.com/data/MRC1BQpK/versions/FVO4p76I/hexFlow-forge-1.20.1-0.5.1.1.jar'
 
 [update.modrinth]
 mod-id = 'MRC1BQpK'
-version = 'GvdJQ3h7'
+version = 'FVO4p76I'

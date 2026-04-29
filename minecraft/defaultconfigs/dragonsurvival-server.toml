@@ -540,7 +540,7 @@
 	altarCraftable = false
 	#How long of a cooldown in seconds the altar has after each use.
 	#Range: 0 ~ 36000
-	altarUsageCooldown = 8400
+	altarUsageCooldown = 36000
 	#The time in seconds between server syncs. -1 to disable. Only modify this if you know exactly what you are doing. Here be dragons!
 	#Range: -1 ~ 60000
 	serverSyncTime = 600
